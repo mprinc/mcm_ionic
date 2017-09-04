@@ -1,0 +1,196 @@
+<!--
+  Generated template for the CoreMetadata page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-header>
+
+  <ion-navbar>
+    <!-- <ion-title *ngIf="readOnly">Core Metadata for Model: <br> -->
+    <!-- Dropped "Core" to fit better on iPhone (IonicView) -->
+    <ion-title *ngIf="readOnly">Metadata for Model: <br>
+      <font ion-text color="primary"> {{modelInfo.name}} </font>
+    </ion-title>
+  <!-- =============================================================== -->
+    <ion-title *ngIf="!(readOnly)">Core Metadata for Model: <br>
+      <font ion-text color="primary"> New Model </font>
+    </ion-title>
+  </ion-navbar>
+
+  <!-- <ion-searchbar> </ion-searchbar>   NOT NEEDED HERE ? -->
+</ion-header>
+
+
+<!-- <ion-content padding> -->
+<ion-content>
+
+<!-- The FORM tag causes trouble here. -->
+<!-- <form *ngIf="!(readOnly)" (ngSubmit)="printModelInfo()"> -->
+<!-- <form *ngIf="!(readOnly)"> -->
+<ion-list>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Model name:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.name" name="name"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Authors:</ion-label>
+    <ion-input readonly value={{modelInfo.authors}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Authors:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.authors" name="authors"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Email:</ion-label>
+    <ion-input readonly value={{modelInfo.email}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Email:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.email" name="email"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Domains:</ion-label>
+    <ion-input readonly value={{modelInfo.domains}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Domains:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.domains" name="domains"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Language:</ion-label>
+    <ion-input readonly value={{modelInfo.language}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Language:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.language" name="language"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Platforms:</ion-label>
+    <ion-input readonly value={{modelInfo.platforms}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Platforms:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.platforms" name="platforms"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>License:</ion-label>
+    <ion-input readonly value={{modelInfo.license}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>License:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.license" name="license"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Publisher:</ion-label>
+    <ion-input readonly value={{modelInfo.publisher}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Publisher:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.publisher" name="publisher"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+
+  <!-- contenteditable="false" didn't work -->
+  <!-- can't find options for "mode=" -->
+  <!-- mode="readonly" didn't work -->
+  <!-- disabled works, but turns text to gray -->
+  <!-- readonly by itself works, as shown -->
+  <!-- haven't found way to break "value" string without problems -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Purpose:</ion-label>
+    <ion-textarea rows="6" readonly value={{modelInfo.purpose}}> </ion-textarea>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Purpose:</ion-label>
+    <ion-textarea rows="6" [(ngModel)]="modelInfo.purpose" name="purpose"> </ion-textarea>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Website:</ion-label>
+    <ion-input readonly value={{modelInfo.website}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Website:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.website" name="website"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Code URL:</ion-label>
+    <ion-input readonly value={{modelInfo.codeurl}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Code URL:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.codeurl" name="codeurl"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Grid type:</ion-label>
+    <ion-input readonly value={{modelInfo.gridtype}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Grid type:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.gridtype" name="gridtype"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Time steps:</ion-label>
+    <ion-input readonly value={{modelInfo.timesteps}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Time steps:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.timesteps" name="timesteps"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+  <ion-item *ngIf="readOnly">
+    <ion-label color="primary" fixed>Processing:</ion-label>
+    <ion-input readonly value={{modelInfo.processing}}> </ion-input>
+  </ion-item>
+
+  <ion-item *ngIf="!(readOnly)">
+    <ion-label color="primary" fixed>Processing:</ion-label>
+    <ion-input type="text" [(ngModel)]="modelInfo.processing" name="processing"> </ion-input>
+  </ion-item>
+  <!-- =============================================================== -->
+</ion-list>
+<!-- </form> -->
+
+</ion-content>
+
+
+<ion-footer>
+
+<ion-buttons *ngIf="readOnly">
+  <button ion-button (click)="viewObjects()">View Objects</button>
+  <button ion-button (click)="viewAssumptions()">View Assumptions</button>
+  <button ion-button (click)="viewDomains()">View Domains</button>
+  <!-- <button ion-button (click)="viewPeople()">Test</button> -->
+</ion-buttons>
+<!-- =============================================================== -->
+<ion-buttons *ngIf="!(readOnly)">
+  <button ion-button type="submit" (click)="saveNewModel( modelInfo )">Save</button>
+  <button ion-button (click)="saveNewModel( nullModelInfo )">Cancel</button>
+</ion-buttons>
+
+</ion-footer>

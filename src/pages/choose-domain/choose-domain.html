@@ -1,0 +1,84 @@
+<!--
+  Generated template for the ChooseDomain page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Choose Science Domain for Model: <br>
+      <font ion-text color="primary"> {{modelName}} </font>
+   </ion-title>
+  </ion-navbar>
+
+  <!-- <ion-toolbar> -->
+    <!-- <ion-list> -->
+    <!-- ======================================================= -->
+    <!-- This now formats to show full label and droplist value. -->
+    <!-- Do not wrap this with <ion-toolbar> and <ion-list>.     -->
+    <!-- If no value keyword, ion-option uses its text as value. -->
+    <!-- ======================================================= -->
+    <ion-item>
+      <!-- <ion-label stacked color="primary">Top-level Domain: &nbsp;</ion-label> -->
+      <ion-label color="primary">Top-level Domain:</ion-label>
+      <ion-select item-content (ionChange)="updateNameList( topDomainIndex )">
+        <ion-option *ngFor="let type of domainTypeList; let index=index;" (ionSelect)="setTopDomainIndex(index)" selected="{{index == 4}}">{{type}}</ion-option>
+      </ion-select>
+    </ion-item>
+
+<!--
+    <div class="item">
+      <span text-left ion-text color="primary">Top-level Domain:</span>
+      <ion-select item-content (ionChange)="updateNameList( topDomainIndex )">
+        <ion-option *ngFor="let type of domainTypeList; let index=index" (ionSelect)="setTopDomainIndex(index)" selected="{{index == 4}}">{{type}}</ion-option>
+      </ion-select>
+    </div>
+-->
+
+<!--  Couldn't get this to format correctly.
+    <ion-item>
+      <div> <font ion-text color="primary">Top-level Domain: </font> </div>
+      <ion-select item-content (ionChange)="updateNameList( topDomainIndex )">
+        <ion-option *ngFor="let type of domainTypeList; let index=index" (ionSelect)="setTopDomainIndex(index)" selected="{{index == 4}}">{{type}}</ion-option>
+      </ion-select>
+    </ion-item>
+-->
+    <!-- </ion-list> -->
+  <!-- </ion-toolbar> -->
+
+  <!-- Call findWord() only if user presses return. (Same as "search"?) -->
+  <!-- <ion-searchbar (change)="findWord($event)" (ionClear)="clearSearch()" (ionCancel)="cancelSearch()" showCancelButton="true" autocorrect="off" > </ion-searchbar> -->
+  <!-- Note that debounce="250" is the default. -->
+  <ion-searchbar (change)="findWord($event)" (ionClear)="clearSearch()" autocorrect="off"> </ion-searchbar>
+
+</ion-header>
+
+
+<!-- <ion-content padding> -->
+<ion-content>
+
+  <!-- View List of All GSN Domain Names -->
+  <ion-list [virtualScroll]="domainNameList" approxItemHeight="50px">
+    <ion-item *virtualItem="let domainName; let index=index">
+      <ion-label (click)="addDomain( index )">{{domainName}}</ion-label>
+       <!-- <ion-checkbox> </ion-checkbox>   CHECKBOX GETS PLACED CORRECTLY -->
+      <button ion-button outline item-right icon-only (click)="viewWikiHelp( index )">
+        <img src="assets/icon/wikipedia2_64x64px.png" width=24/>
+      </button>
+    </ion-item>
+  </ion-list>
+
+</ion-content>
+
+
+<!-- "Add new domain" option in a footer. -->
+<ion-footer no-shadow>
+
+  <ion-toolbar>
+     <button ion-button color="primary" (click)="addNewDomain()"> Add new domain </button>
+     <button ion-button color="primary" (click)="cancelAddDomain()"> Cancel </button>
+  </ion-toolbar>
+
+</ion-footer>

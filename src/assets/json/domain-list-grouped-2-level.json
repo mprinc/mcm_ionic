@@ -1,0 +1,41 @@
+{
+  "head": {
+    "vars": [ "fieldtop" , "lev2fields" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Agricultural Sciences" } ,
+        "lev2fields": { "type": "literal" , "value": "Forestry , Fish and wildlife , Veterinary sciences , Animal husbandry, Other agricultural specialities (specify), Phytopathology , Agronomy , Agricultural chemistry, Horticulture, Agricultural engineering" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Astronomy and astrophysics" } ,
+        "lev2fields": { "type": "literal" , "value": "Planetology, Optical astronomy, Other astronomical specialties (specify), Radioastronomy, Solar System, Cosmology and cosmogony, Interplanetary medium" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "lev2fields": { "type": "literal" , "value": "Biochemistry, Nuclear Chemistry, Other chemical specialties (specify), Analytical Chemistry, Inorganic chemistry , Pharmaceutical chemistry, Macromolecular chemistry , Physical chemistry , Organic Chemistry " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Demographics" } ,
+        "lev2fields": { "type": "literal" , "value": "Fertility, Historical Demography, Other demographic specialities (specify), Population size and demographic evolution, Population characteristics, General demography, Mortality, Geographical demography " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "lev2fields": { "type": "literal" , "value": "Hydrology , Geochemistry, Meteorology , Geodesy, Other Earth, Space or Environmental specialities (specify), Science space , Geophysics, Oceanography, Climatology , Geography , Atmospheric sciences , Soil Science , Geology" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Geography" } ,
+        "lev2fields": { "type": "literal" , "value": "Regional geography, Economic Geography, Historical geography, Other geographical specialities (specify), Human geography " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Life Sciences" } ,
+        "lev2fields": { "type": "literal" , "value": "Human biology , Radiobiology , Plant Biology (Botany) , Virology , Microbiology , Anthropology (physical) , Biomathematics, Genetics , Symbiosis, Palaeontology, Human physiology , Animal biology (Zoology) , Molecular biology , Other specialties of biology (specify), Biophysics, Immunology , Cell biology, Neurosciences, Ethology, Biometrics, Biochemistry , Insect Biology (Entomology) " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "lev2fields": { "type": "literal" , "value": "Electromagnetism, Molecular physics, Electronics, Other physical specialties (specify), Solid state physics, Fluids (physics of), Nucleonics, Physical chemistry, High energy Physics, Thermodynamics, Theoretical physics, Units and Constants, Nuclear physics, Optics, Mechanics, Acoustics" }
+      }
+    ]
+  }
+}

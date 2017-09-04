@@ -1,0 +1,33 @@
+
+//--------------------------------------------
+// From online example, to have a side menu,
+// but seems to have a problem.
+//--------------------------------------------------------------------
+// (Note: App started working again after removal, even though this
+//  block was commented out.  Are the 2 comment characters wrappable?
+//--------------------------------------------------------------------
+import {Component} from '@angular/core';
+import {HomePage} from '../home/home';
+import {AboutPage} from '../about/about';
+// import {ContactPage} from '../contact/contact';
+
+@Component({
+  selector: 'page-tabs',
+  templateUrl: 'tabs.html'
+  // templateUrl: 'build/pages/tabs/tabs.html'
+})
+
+export class TabsPage {
+
+  private tab1Root: any;
+  private tab2Root: any;
+  // private tab3Root: any;
+
+  constructor() {
+    // this tells the tabs component which Pages
+    // should be each tab's root Page
+    this.tab1Root = HomePage;
+    this.tab2Root = AboutPage;
+    // this.tab3Root = ContactPage;
+  }
+}

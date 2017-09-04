@@ -1,0 +1,115 @@
+<!--
+  Generated template for the QuantityList page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Quantities for Object:<br>
+      <font ion-text color="primary"> {{objectName}} </font>
+      <!-- <font ion-text color="primary"> {{object.objname.value}} </font> -->
+    </ion-title>
+
+      <!--
+      <ion-buttons end>
+         <button ion-button large clear>
+             <ion-icon name="add-circle"></ion-icon> </button>
+      </ion-buttons>
+      -->
+  </ion-navbar>
+
+  <!-- Use CSS to make button background transparent. These are not "ion-buttons". -->
+  <!--
+  <ion-toolbar>
+     <ion-buttons radio-group start>
+        <button> For selection, show: </button>
+        <button> Assumptions <ion-radio value="assumption" checked> </ion-radio> </button>
+     </ion-buttons>
+  </ion-toolbar>
+  -->
+</ion-header>
+
+
+<ion-content padding>
+
+<ion-list>
+  <ion-item *ngFor="let quantityInfo of quantityInfoList; let index=index;">
+    {{objectName}}__<b>{{quantityInfo.quantityname.value}}</b>
+
+
+    <!-- ================================================================== -->
+    <!--  Approach using ion-grid  (more vertical spacing, etc.)  -->
+    <!--- Note:  ion-select still doesn't work as expected.       -->
+    <!-- ================================================================== -->
+    <ion-grid>
+    <ion-row> <ion-col width-33> <font ion-text color="primary">&nbsp; Canonical units: </font> </ion-col>
+    <ion-col>[ {{quantityInfo.units.value}} ]</ion-col> </ion-row>
+
+    <ion-row> <ion-col width-33> <font ion-text color="primary">&nbsp; Role in model: </font> </ion-col>
+    <ion-col>Input variable</ion-col> </ion-row>
+
+<!--
+    <ion-col>
+      <ion-select multiple="true" placeholder="unknown">
+        <ion-option> Input variable </ion-option>
+        <ion-option> Output variable </ion-option>
+        <ion-option> Config parameter </ion-option>
+        <ion-option> State variable </ion-option>
+      </ion-select> </ion-col> </ion-row>
+-->
+
+<!--
+    <td>&nbsp;
+      <select multiple >
+        <option> Input variable </option>
+        <option> Output variable </option>
+        <option> Config parameter </option>
+        <option> State variable </option>
+      </select> </td> </tr>
+-->
+
+    <ion-row> <ion-col width-33> <font ion-text color="primary">&nbsp; Root quantity: </font> </ion-col>
+    <ion-col>{{quantityInfo.rootquantityname.value}}</ion-col> </ion-row>
+
+    <ion-row> <ion-col width-33> <font ion-text color="primary">&nbsp; Field type: </font> </ion-col>
+    <ion-col>{{quantityInfo.fieldtype.value}}</ion-col> </ion-row>
+
+    <ion-row> <ion-col width-33> <font ion-text color="primary">&nbsp; Operations: </font> </ion-col>
+    <ion-col>{{quantityInfo.operations.value}}</ion-col> </ion-row>
+
+<!--
+    <ion-row> <ion-col> <font ion-text color="primary">&nbsp;&nbsp; Synonyms: </font> </ion-col>
+    <ion-col> </ion-col> </ion-row>
+-->
+    </ion-grid>
+
+    <!-- ================================================================== -->
+    <!--  Row of buttons for each quantity -->
+    <!-- ================================================================== -->
+    <div> &nbsp;&nbsp;
+      <button ion-button outline item-left (click)="viewAssumptions( index )">A</button>
+      <button ion-button outline item-left (click)="viewSynonyms( index )">S</button>
+      <button ion-button outline item-left> <ion-icon name="grid"> </ion-icon> </button>
+      <button ion-button outline item-right (click)="deleteQuantity( index )">
+        <ion-icon name="trash"> </ion-icon> </button>
+    </div>
+
+  </ion-item>
+
+
+</ion-list>
+
+</ion-content>
+
+<!-- "Add quantity" option in a footer. -->
+<ion-footer no-shadow>
+
+  <ion-toolbar>
+     <button ion-button color="primary" (click)="addQuantity()"> Add quantity </button>
+     <!-- <button ion-button color="primary" (click)="addNewQuantity()"> Add new quantity </button> -->
+  </ion-toolbar>
+
+</ion-footer>

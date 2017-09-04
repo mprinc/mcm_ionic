@@ -1,0 +1,42 @@
+<!--
+  Generated template for the AssumptionList page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Assumptions for {{entityType}}:<br>
+      <font ion-text color="primary"> {{entityName}} </font>
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+<!-- Clickable list with assumption names for a given object -->
+<ion-list>
+  <ion-item *ngFor="let assumptionName of assumptionNameList; let index=index;">
+    {{assumptionName}}
+
+    <!-- These buttons have a "small" option. -->
+    <button ion-button outline item-right (click)="deleteAssumption( index )">
+      <ion-icon name="trash"> </ion-icon> </button>
+  </ion-item>
+</ion-list>
+
+</ion-content>
+
+<!-- "Add assumption" option in a footer. -->
+<ion-footer no-shadow>
+
+  <ion-toolbar>
+     <button ion-button color="primary" (click)="addAssumption()"> Add assumption </button>
+     <!-- <button ion-button color="primary" (click)="addNewAssumption()"> Add new assumption </button> -->
+  </ion-toolbar>
+
+</ion-footer>

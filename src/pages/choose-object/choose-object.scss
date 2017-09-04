@@ -1,0 +1,13 @@
+page-choose-object {
+
+ion-list > .item:first-child {
+  transform: translate3d(0px, 0px, 0px) !important; }
+
+// Currently must specify height, or text disappears.
+// Reducing height to 16px makes underscores disappear in browser.
+ion-scroll {
+    white-space: nowrap;   // don't think this is needed; no spaces
+    height: 20px;
+}
+
+}

@@ -1,0 +1,76 @@
+
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+     Model Component Metadata App
+    </ion-title>
+  </ion-navbar>
+
+<!--
+  <ion-buttons end>
+     <button large menuToggle>
+         <ion-icon name="information-circle"></ion-icon> </button>
+  </ion-buttons>
+-->
+
+</ion-header>
+
+<ion-content padding>
+
+<!-- Path here is important to show in both browser and phone. -->
+<!-- Images on Home page didn't show on both with these methods. -->
+<!-- <img src="/assets/img/ESB_Logo_587x154_border.jpg" width=400> -->
+<!-- <img src="img/ESB_Logo_587x154_border.jpg" width=400> -->
+<!-- <img src="../assets/img/ESB_Logo_587x154_border.jpg" width=400> -->
+<!-- <img src="build/assets/img/ESB_Logo_587x154_border.jpg" width=400>  NOT TRIED -->
+
+<!-- This worked in both browser and phone. -->
+<!-- Need similar for JSON files probably.  -->
+<img src="assets/img/ESB_Logo_587x154_border.jpg" width=400>
+
+<h3> Model Component Metadata App </h3>
+
+<h4 ion-text color="primary">
+<i>An app to describe geoscience model components with standardized metadata, using the <b>Geoscience Standard Names</b></i>
+ontology. </h4>
+
+<!-- Line breaks cause trouble in Ionic View -->
+<!-- <i>An app to describe geoscience model <br>
+components with standardized metadata, <br>
+using the <b>Geoscience Standard Names</b></i> <br>
+ontology. </h4> -->
+
+<br>
+<br>
+
+<ion-list>
+
+  <ion-item>
+    <ion-label color="primary" fixed>Email:</ion-label>
+    <ion-input placeholder="Email"> </ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label color="primary" fixed>Password:</ion-label>
+    <ion-input placeholder="Password"> </ion-input>
+  </ion-item>
+
+</ion-list>
+
+  <!-- <ion-buttons style="text-align: center"> -->
+  <ion-buttons>
+    <button ion-button>Log In</button>
+    <button ion-button>Sign Up</button>
+    <button ion-button (click)="skipLogin()">Skip</button>
+  </ion-buttons>
+
+  <!-- <ion-thumbnail item-left>   </ion-thumbnail> -->
+
+  <br>
+  <br>
+  <!-- Path here is important to show in both browser and phone. -->
+  <img src="assets/img/EarthCube_Logo_horizontal.png" width=200>
+  <!-- <img src="/assets/img/EarthCube_Logo_horizontal.png" width=200> -->
+
+
+</ion-content>

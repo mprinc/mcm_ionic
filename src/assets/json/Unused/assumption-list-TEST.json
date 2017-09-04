@@ -1,0 +1,22 @@
+{
+  "head": {
+    "vars": [ "assumptionname" , "wikip" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "assumptionname": { "type": "literal" , "xml:lang": "en" , "value": "test_assumption1" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mass_transfer_coefficient" }
+      } ,
+      {
+        "assumptionname": { "type": "literal" , "xml:lang": "en" , "value": "test_assumption2" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mass_transfer_coefficient" }
+      } ,
+      {
+        "assumptionname": { "type": "literal" , "xml:lang": "en" , "value": "test_assumption3" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mass_transfer_coefficient" }
+      }
+    ]
+  }
+}
+

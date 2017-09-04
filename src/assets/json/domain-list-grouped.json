@@ -1,0 +1,194 @@
+{
+  "head": {
+    "vars": [ "fieldtop" , "fieldlev2" , "lev3fields" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Analytical Chemistry" } ,
+        "lev3fields": { "type": "literal" , "value": "X-Ray spectroscopy, Microscopy, Fluorimetry, Biochemical analysis, Microchemical analysis, Other (specify), Polymer analysis, Infrared spectroscopy, Chromatographic analysis, Absorption spectroscopy, Volumetry, Phosphorimetry, Raman spectroscopy, Mass spectroscopy, Electrochemical Analysis, Gravimetry, Radiochemical analysis, Thermal analytical methods, Microwave spectroscopy, Emission spectroscopy, Magnetic resonance spectroscopy" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Biochemistry" } ,
+        "lev3fields": { "type": "literal" , "value": "Peptides, Co-enzymes, Proteins, Biological macromolecules chemistry, enzymology, Trace-elements , Molecular pharmacology, Intermediary metabolism, Terpenes, Steroids , Glucides, Clinical chemistry, Molecular biology, Other (specify), Feedback regulation, Hormones, Biochemical genetics, Immunochemistry, Fermentation, Chemotherapy, Amino Acids, Microbiological chemistry, Starch, Biosynthesis, Fatty acids, Metabolic processes, Vitamins , Photosynthesis, Waxes, Essential oils, Antimetabolites, Nucleic acids, Food biochemistry, Physical biochemistry, Lipids, Alkaloids" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Inorganic chemistry " } ,
+        "lev3fields": { "type": "literal" , "value": "Alkaline elements, Other (specify), Sodium compounds, Graphite, Chlorine compounds, Transuranic elements, Transition elements, Synthetic elements, Organo-metallic compounds , Halogens, Boron compounds, Carbon, Structure of inorganic compounds, Metals, Rare earths, Nitrogen compounds, Metal alkyls, Lead compounds, Sulfur compounds, Electropositive elements, Electron deficient compounds, Inorganic reactions (mechanisms of), Pigments chemistry, Hydrogen, Germanium, Actinides chemistry, Hydrides, Fluorine compounds, Co-ordination compounds, Phosphorous compounds, Water chemistry , Alkaline earths" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Macromolecular chemistry " } ,
+        "lev3fields": { "type": "literal" , "value": "Polypeptides and proteins , Synthetic fibres , Macromolecules, Polyelectrolytes, Modification of macromolecules, Natural fibers, Polyurethanes, Gums, Polyethylene, Polystyrene, Other (specify), Network polymers, Polysaccharides , Composites polymers, High polymers, Polymer analysis , Synthesis of macromolecules, Inorganic polymers, Cellulose, Monomers chemistry, Polymer in dispersed form, Cellular plastics, Stability of macromolecules, Elastomers, Polyesters" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Chemistry" } ,
+        "lev3fields": { "type": "literal" , "value": "Radiation chemistry, Separation of isotopes , Isotope tracers, Radiochemistry, Other (specify), Radioisotopes , Hot atoms chemistry, Marked molecules" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Organic Chemistry " } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), Organometallic, Stereochemistry and conformational analysis, benzene derivatives, Heterocyclic compounds, Free radicals , Organic chemistry. Instrumental analysis, Structure of organic molecules, Carbohydrates chemistry , Organic natural products chemistry, Bicyclic chemistry, Aliphatic hydrocarbons, Organosilicon chemistry, Dyestuff chemistry , Carbanion chemistry, Organosulfur chemistry, Carbonium chemistry, Aromatic hydrocarbons, Steroids chemistry , Reaction Mechanisms, Organophosphorus chemistry" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Pharmaceutical chemistry" } ,
+        "lev3fields": { "type": "literal" , "value": "Design, synthesis and study of new drugs" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric sciences " } ,
+        "lev3fields": { "type": "literal" , "value": "Radioactive transfer, Ionosphere, Cosmic rays , Cloud physics, Atmospheric structure, Aeronomy, Geomagnetic pulsations, Airglow, Precipitation physics, Atmospheric optics , Atmospheric electricity, Numerical modelling, Dissemination (atmospheric), Solar wind, Air-sea interaction , Magnetospheric waves, Atmospheric acoustics , Atmospheric radioactivity , Magnetospheric particles, atmospheric chemistry, Atmospheric turbulence, Other (specify), atmospheric thermodynamics, Aurora, Atmospheric dynamics" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Climatology " } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), Physical climatology, Applied climatology, Analytical climatology, Paleoclimatology, Regional climatology, Bioclimatology, Microclimatology" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Geochemistry" } ,
+        "lev3fields": { "type": "literal" , "value": "Stable isotopes, Exploration geochemistry, Trace elements distribution, Cosmochemistry , High temperature geochemistry, Low temperatures geochemistry, Experimental petrology, Geochronology and radio isotope, Organic geochemistry, Other (specify)" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Geodesy" } ,
+        "lev3fields": { "type": "literal" , "value": "Geodesic photogrammetry, Theoretical geodesy, Geodetic surveying, Other (specify), Satellite geodesy , Geodesic cartography, Geodesic navigation, Physical geodesy, Geodesic astronomy " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Geography " } ,
+        "lev3fields": { "type": "literal" , "value": "Topographic geography, Geography of natural resources, Physical geography, Biogeography , Other (specify), Location theory, Medical geography, Geographical cartography, Land utilization " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Geology" } ,
+        "lev3fields": { "type": "literal" , "value": "Volcanology, Remote sensing (geology), Well log analysis, Stratigraphy , Petrology, igneous and metamorphic, Environmental geology, Engineering geology, Geomorphology, Coal geologi , Structural geology, Photogeology, Areal geology, Geothermal processes and energy , Mineralogy, Geological surveys, Petrology, sedimentary, Glacial geology , Sedimentology, Mineral deposits, Other (specify), Rock mechanisms, Geohydrology , Petroleum geology " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Geophysics" } ,
+        "lev3fields": { "type": "literal" , "value": "Geomagnetism and magnetic explotarion, Heat flow (earth), Tectonics, Solid-earth and geophysics, Other (specify), Seismology and seismic exploration, Paleomagnetism, Gravity (earth) and gravity exploration " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Hydrology " } ,
+        "lev3fields": { "type": "literal" , "value": "Ice , Permafrost, Quality of water , Surface waters, Groundwater, Glaciology , Other (specify), Soil moisture, Limnology, Evaporation, Snow, Hydrography, Hydrobiology, Erosion (water), Transpiration, Precipitation" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Meteorology " } ,
+        "lev3fields": { "type": "literal" , "value": "Satellite meteorology , Agricultural mMeteorology, Numerical weather prediction, Rocket meteorology, Marine meteorology , Weather modification, Weather analysis, Other (specify), Operational forecasting (weather), Tropical meteorology, Air pollution , Industrial meteorology, Mesometeorología, Polar meteorology, Extended weather forecasting, Radio meteorology, Synoptic meteorology, Micrometeorology, Radar meteorology, Observation briefing (weather), Hydrometeorology " }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Oceanography" } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), Marine aquaculture (oceanography), Marine botany , Shore and near-shore processes, Ocean-bottom processes , Biological oceanography, Physical oceanography , Renewable resources (oceanography), Marine zoology , Underwater sounds, Sea ice , Sea-air interactions , Marine Geology (oceanography), Chemical oceanography, Descriptive oceanography" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Science space (2104 2102 3324)" } ,
+        "lev3fields": { "type": "literal" , "value": "Exobiology, Space medicine, Space physiology , Other (specify)" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Soil Science (Soil Science) " } ,
+        "lev3fields": { "type": "literal" , "value": "Soil mechanics (agriculture), Soil biology, Soil morphology and genesis, soil cartography, Soil microbiology, Other (specify), Soil physics, Soil chemistry, Soil classification, Soil xonservation, Soil engineering, Soil biochemistry, Soil mineralogy" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Geography" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Economic Geography" } ,
+        "lev3fields": { "type": "literal" , "value": "Land utilisation , Other (specify), Geography of economic activities, Distribution of natural resources, Regional development" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Geography" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Human geography " } ,
+        "lev3fields": { "type": "literal" , "value": "Linguistic geography , Geography of religion , Political geography, Cultural geography, Demo-geography , Other (specify), Social geography" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Geography" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Regional geography" } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), Rural geography, Urban geography" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Acoustics" } ,
+        "lev3fields": { "type": "literal" , "value": "Shock waves, Music (physics of), Other (specify), Sonar, Hearing (physics of), Ultrasonics, Vibrations, Speech (physics of), Architectural Acoustics, Noise, Underwater sounds, Acoustic properties of solids" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Electromagnetism" } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), Radiowaves and microwaves, Infrared, visible and ultraviolet radiation, X-rays, Conductivity, Propagation of electromagnetic waves, Magnetism, Interaction of electromagnetic waves with matter, Electrical quantities and their measurement, Electricity, Gamma rays, Superconductivity, Electromagnetic waves" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Electronics" } ,
+        "lev3fields": { "type": "literal" , "value": "Integrated circuits, Photoelectricity, Electron transport, Electron Microscopy, Other (specify), Circuit elements, Electron states, Electron tubes, Piezo-electricity, Circuits" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Fluids (physics of)" } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), High pressure phenomena, Colloids, Fluid mechanics, Magnetofluid dynamics (Magnetofluidodinámica), Ionisation, Plasmas (physics of), Liquids, Fluid flow, Quantum fluids, Dispersions, Gases" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "High energy Physics" } ,
+        "lev3fields": { "type": "literal" , "value": "Theoretical high energy physics" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Mechanics" } ,
+        "lev3fields": { "type": "literal" , "value": "Friction, Elasticity, Fluid mechanics, Plasticity, Many body theory, Continuous mechanics, Other (specify), Analytical mechanics, Measurement of mechanical properties, Statistical mechanics, Solid mechanics" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Molecular physics" } ,
+        "lev3fields": { "type": "literal" , "value": "Free radicals, Molecular structure, Molecular ions, Macromolecules, Polymers (physics of), Molecular spectroscopy, Mesic and muonic molecules, Inorganic molecules, Other (specify), Organic molecules, Molecular beams" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear physics" } ,
+        "lev3fields": { "type": "literal" , "value": "Thermonuclear fusion, Fission (nuclear), Electron spin resonance, Nuclear reactors, Atomic beams, Nuclear Energy, Atomic ions, Other (specify), Hydrogen atom, Electron paramagnetic resonance, Low energy experimental nuclear physics, Atomic physics, Nuclear magnetic resonance, Nuclear reaction and scattering, Isotopes, Nuclear structure, Atoms with Z greater than 2, Radioisotopes, Collision processes, Nuclear decay, Energy Conversion, Helium atom, Electron beams" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Nucleonics" } ,
+        "lev3fields": { "type": "literal" , "value": "Beam handling, Other (specify), Particle physics, Beam sources, Particle detectors, Fusion reactors, Particles sources, Nuclei, Particle accelerators, Plasma Containment" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Optics" } ,
+        "lev3fields": { "type": "literal" , "value": "Geometric optics, lasers, Light, Emission spectroscopy, Fibre Optics, Visible radiation, Ultra-violet radiation, Photometry, Cinematography, Microscopes, Other (specify), Physical optics, Absorption spectroscopy, Photography, Optical properties of solids, Infrared radiation, Non-linear Optics, Colorimetry, Vision (physics of), Radiometry, Holography, Ilumination, Photographic instrumentation, Digital treatment. Images, Optometry, Spectroscopy" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Physical chemistry" } ,
+        "lev3fields": { "type": "literal" , "value": "Chemical kinetics, Interfacial chemistry, Quantum theory, States of matter, Energy transfer, Colloids chemistry, Fused salts, Thermochemistry, Fast reactions; explosives, Photochemistry, Scattering phenomena, Ion eschange, Membrane phenomena, Physical chemistry of Polymers, Catalysis, Thermodynamics, Phase equilibria, Radiochemistry, Solid state physics, Liquid crystals, Gas phase physics, Electrochemistry, liquid state physics, Electronic spectroscopy, Flames, Chemical and phase equilibrium, Solid state chemistry, Molecular spectroscopy, Relation processes, Electrolytes, Transport phenomena, High temperatures chemistry, Valence theory, Solutions, Other (specify), Emulsions, Fuel cells (theory of), Physical Chemistry: Gas phase chemistry" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Solid state physics" } ,
+        "lev3fields": { "type": "literal" , "value": "Optical properties, Luminescence, Dendrites, Superconductors, Other (specify), Crystal growth, Interfaces, Tribology, Metallurgy, Imperfections, Thermal properties of solids, Dielectrics, Non-crystalline states, Lattice mechanics, Diffusion in solids, Magnetic properties, Crystallography, Semiconductors, Alloys, Solid state physics. Thin sheet, Electron states, Magnetic resonance, Electron carriers properties, Solid state devices, Metallography, Crystal structure, Surfaces, metallic conductors, Solid State physics. Solids spectroscopy, Composites, Electron transport properties, Mechanical properties, Interaction of radiation with solids" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Theoretical physics" } ,
+        "lev3fields": { "type": "literal" , "value": "Other (specify), Gravitons, Mass, Energy (physics), Radiation (electromagnetic) , Photons , Fields, Gravitation , Quantum field theory , Theory of relativity, Electromagnetic fields, Hadrons, Gravitational fields, Elementary particles , Leptons" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Thermodynamics" } ,
+        "lev3fields": { "type": "literal" , "value": "Kinetic theory, Low temperatures, Changes of state, Phase transition, Transport phenomena, Thermodynamic relationships, Heat transfer (physics of), Thermal measurement techniques, Other (specify), High pressure, High temperature, Thermodynamic equilibria" }
+      } ,
+      {
+        "fieldtop": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "fieldlev2": { "type": "literal" , "xml:lang": "en" , "value": "Units and Constants" } ,
+        "lev3fields": { "type": "literal" , "value": "Unit conversion, Metrology, Standard units, Constants (physics), Other (specify), Unit calibration" }
+      }
+    ]
+  }
+}

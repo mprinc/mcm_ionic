@@ -1,0 +1,1638 @@
+{
+  "head": {
+    "vars": [ "objname" , "wikip" , "quantities" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "air_water~vapor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Water_vapor" } ,
+        "quantities": { "type": "literal" , "value": "dew_point_temperature, saturated_partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_aerosol_dust" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Dust" } ,
+        "quantities": { "type": "literal" , "value": "reduction_of_transmittance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_aerosol_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, transmitted_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_air" } ,
+        "quantities": { "type": "literal" , "value": "equivalent_potential_temperature, isentropic_compressibility, equivalent_temperature, temperature_lapse_rate, z_derivative_of_temperature, x_derivative_of_temperature, anomaly_of_temperature, potential_temperature, magnitude_of_gradient_of_temperature, anomaly_of_pressure, y_derivative_of_temperature, north_derivative_of_temperature, azimuth_angle_of_gradient_of_temperature, isothermal_compressibility, static_pressure_environmental_lapse_rate, increment_of_temperature, thermal_diffusivity, temperature_dry_adiabatic_lapse_rate, volume-specific_isobaric_heat_capacity, static_pressure, temperature_environmental_lapse_rate, east_derivative_of_temperature, mass-specific_isobaric_heat_capacity, mass-specific_isochoric_heat_capacity, volume-specific_isochoric_heat_capacity, increment_of_pressure, elevation_angle_of_gradient_of_temperature, convective_available_potential_energy, temperature_saturated_adiabatic_lapse_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_air-column_water~vapor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Water_vapor" } ,
+        "quantities": { "type": "literal" , "value": "liquid-equivalent_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_air_carbon-dioxide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Carbon_dioxide" } ,
+        "quantities": { "type": "literal" , "value": "saturated_partial_pressure, equilibrium_partial_pressure, partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_air_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle_of_vorticity, east_component_of_bolus_velocity, z_integral_of_u_component_of_momentum, magnitude_of_stress, north_component_of_vorticity, north_up_component_of_stress, east_component_of_vorticity, magnitude_of_velocity, y_component_of_bolus_velocity, east_east_component_of_reynolds_stress, z_component_of_momentum, magnitude_of_gradient_of_pressure, east_component_of_momentum, magnitude_of_bolus_vorticity, y_z_component_of_stress, east_component_of_velocity, x_component_of_bolus_velocity, x_y_component_of_stress, magnitude_of_gradient_of_potential_vorticity, azimuth_angle_of_velocity, east_north_component_of_stress, east_up_component_of_reynolds_stress, potential_vorticity, azimuth_angle_of_bolus_velocity, y_component_of_velocity, north_component_of_bolus_velocity, east_derivative_of_pressure, x_component_of_momentum, east_up_component_of_stress, east_north_component_of_reynolds_stress, z_component_of_velocity, north_derivative_of_potential_vorticity, up_up_component_of_reynolds_stress, elevation_angle_of_velocity, z_z_component_of_stress, z_component_of_bolus_velocity, z_integral_of_v_component_of_momentum, elevation_angle_of_momentum, y_component_of_vorticity, magnitude_of_momentum, y_component_of_momentum, y_y_component_of_reynolds_stress, up_component_of_momentum, time_derivative_of_potential_vorticity, curl_of_velocity, azimuth_angle_of_momentum, magnitude_of_bolus_velocity, dynamic_pressure, x_component_of_velocity, total_pressure, z_z_component_of_reynolds_stress, north_derivative_of_pressure, azimuth_angle_of_gradient_of_pressure, elevation_angle_of_vorticity, elevation_angle_of_bolus_velocity, y_derivative_of_potential_vorticity, north_component_of_momentum, x_derivative_of_potential_vorticity, y_z_component_of_reynolds_stress, y_derivative_of_pressure, east_derivative_of_potential_vorticity, x_z_component_of_stress, x_x_component_of_reynolds_stress, up_component_of_bolus_velocity, east_east_component_of_stress, z_derivative_of_potential_vorticity, azimuth_angle_of_gradient_of_potential_vorticity, up_up_component_of_stress, x_component_of_vorticity, z_derivative_of_pressure, elevation_angle_of_gradient_of_potential_vorticity, x_x_component_of_stress, north_north_component_of_stress, north_north_component_of_reynolds_stress, x_z_component_of_reynolds_stress, x_y_component_of_reynolds_stress, z_component_of_vorticity, north_component_of_velocity, obukhov_length, north_up_component_of_reynolds_stress, x_derivative_of_pressure, elevation_angle_of_gradient_of_pressure, y_y_component_of_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_air_radiation" } ,
+        "quantities": { "type": "literal" , "value": "beer-lambert-law_attenuation_coefficient, standard_refractive_index" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_air_water~vapor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Water_vapor" } ,
+        "quantities": { "type": "literal" , "value": "partial_pressure, dew_point_temperature, virtual_temperature, equilibrium_partial_pressure, bubble_point_temperature, frost_point_temperature, virtual_potential_temperature, saturated_partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_ball" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ball" } ,
+        "quantities": { "type": "literal" , "value": "fall_speed, terminal_fall_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air" } ,
+        "quantities": { "type": "literal" , "value": "neutral_bulk_momentum_transfer_coefficient, bulk_latent_heat_aerodynamic_conductance, neutral_bulk_latent_heat_transfer_coefficient, bulk_sensible_heat_aerodynamic_conductance, mass-specific_isobaric_heat_capacity, bulk_momentum_transfer_coefficient, bulk_momentum_aerodynamic_conductance, bulk_latent_heat_transfer_coefficient, bulk_sensible_heat_transfer_coefficient, neutral_bulk_sensible_heat_transfer_coefficient, static_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_carbon-dioxide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Carbon_dioxide" } ,
+        "quantities": { "type": "literal" , "value": "equilibrium_partial_pressure, partial_pressure, saturated_partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "reference_height_speed, bulk_richardson_number, x_component_of_velocity, y_component_of_velocity, z_component_of_velocity, gradient_richardson_number, log-law_roughness_length, dynamic_pressure, total_pressure, flux_richardson_number, speed_reference_height, log-law_displacement_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_flow_buildings" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Building" } ,
+        "quantities": { "type": "literal" , "value": "log-law_roughness_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_flow_snowpack" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Snowpack" } ,
+        "quantities": { "type": "literal" , "value": "log-law_roughness_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_flow_terrain" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Terrain" } ,
+        "quantities": { "type": "literal" , "value": "log-law_roughness_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_flow_vegetation" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Vegetation" } ,
+        "quantities": { "type": "literal" , "value": "log-law_roughness_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_heat_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "log-law_roughness_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_water~vapor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Water_vapor" } ,
+        "quantities": { "type": "literal" , "value": "bulk_mass_aerodynamic_conductance, partial_pressure, equilibrium_partial_pressure, saturated_partial_pressure, dew_point_temperature, frost_point_temperature, bulk_mass_transfer_coefficient, neutral_bulk_mass_transfer_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_bottom_air_water~vapor_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "log-law_roughness_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_carbon-dioxide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Carbon_dioxide" } ,
+        "quantities": { "type": "literal" , "value": "partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_clouds_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "transmitted_energy_flux, absorbed_energy_flux, reflected_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_datum~vertical~tidal~msl_air" } ,
+        "quantities": { "type": "literal" , "value": "static_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_datum~vertical~tidal~msl_air_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "dynamic_pressure, total_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_graupel" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Graupel" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_duration, precipitation_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_hail" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Hail" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_volume_flux, precipitation_duration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_hydrometeor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Precipitation#Hydrometeor_definition" } ,
+        "quantities": { "type": "literal" , "value": "fall_speed, terminal_fall_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_ice" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ice" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_volume_flux, precipitation_duration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux, transmitted_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_raindrop" } ,
+        "quantities": { "type": "literal" , "value": "fall_speed, terminal_fall_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_sleet" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Sleet" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_duration, precipitation_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_snow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Snow" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_volume_flux, precipitation_duration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "domain_time_integral_of_snowfall_leq-volume_flux, one-month_time_integral_of_precipitation_leq-volume_flux, one-year_time_integral_of_precipitation_leq-volume_flux, domain_time_integral_of_precipitation_leq-volume_flux, precipitation_leq-volume_flux, domain_time_max_of_precipitation_leq-volume_flux, geologic_time_average_of_rainfall_volume_flux, snowfall_leq-volume_flux, snowfall_mass-per-volume_density, icefall_mass-per-volume_density, one-hour_time_integral_of_precipitation_leq-volume_flux, domain_time_integral_of_rainfall_volume_flux, icefall_leq-volume_flux, precipitation_mass_flux, globe_time_average_of_rainfall_volume_flux, rainfall_volume_flux, one-day_time_integral_of_precipitation_leq-volume_flux, precipitation_duration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "atmosphere_water~vapor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Water_vapor" } ,
+        "quantities": { "type": "literal" , "value": "saturated_partial_pressure, partial_pressure, frost_point_temperature, dew_point_temperature" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_bottom" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Bottom" } ,
+        "quantities": { "type": "literal" , "value": "departure_angle, breakover_angle, approach_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_bottom_ground" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Earth#Surface" } ,
+        "quantities": { "type": "literal" , "value": "clearance_height" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_bumper_bottom" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Bottom" } ,
+        "quantities": { "type": "literal" , "value": "above-ground_height" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_driver" } ,
+        "quantities": { "type": "literal" , "value": "reaction_distance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_engine" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Engine" } ,
+        "quantities": { "type": "literal" , "value": "max_of_output_power" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_engine_cylinder_piston" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Piston" } ,
+        "quantities": { "type": "literal" , "value": "stroke_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_fuel" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Fuel" } ,
+        "quantities": { "type": "literal" , "value": "consumption_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_tire" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Tire" } ,
+        "quantities": { "type": "literal" , "value": "contact_area, inflation_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "automobile_wheel" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Wheel" } ,
+        "quantities": { "type": "literal" , "value": "caster_angle, camber_force, camber_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "baseball-bat_baseball" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Baseball_(ball)" } ,
+        "quantities": { "type": "literal" , "value": "impact_impulse" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_boundary" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Boundary_(topology)" } ,
+        "quantities": { "type": "literal" , "value": "normalized_area-diameter_shape_factor, normalized_diameter-perimeter_shape_factor, normalized_area-perimeter_shape_factor" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_channel-network" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Channel-network" } ,
+        "quantities": { "type": "literal" , "value": "usgs_hydrologic_unit_code, graph_diameter, pfafstetter_code, total_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_channel-network_link~exterior" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_channel-network_link~interior" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_channel~longest_centerline" } ,
+        "quantities": { "type": "literal" , "value": "downvalley_sinuosity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_outlet" } ,
+        "quantities": { "type": "literal" , "value": "bankfull_width, total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_outlet_sediment" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Sediment" } ,
+        "quantities": { "type": "literal" , "value": "yield" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_outlet_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "half_of_fanning_friction_factor" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "basin_outlet_water_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "time_max_of_volume_flux, time_integral_of_volume_flow_rate, peak_time_of_volume_flow_rate, peak_time_of_depth, time_max_of_volume_flow_rate, time_min_of_volume_flow_rate, mean_depth, time_max_of_mean_depth, peak_time_of_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "bear~alaskan~black_head" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Head" } ,
+        "quantities": { "type": "literal" , "value": "mean_diameter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "bedrock_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "time_derivative_of_slope, time_derivative_of_elevation, x_derivative_of_slope, y_derivative_of_elevation, y_derivative_of_slope, increment_of_elevation, antigradient_of_elevation, x_derivative_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "benzene_molecule_c_c_c" } ,
+        "quantities": { "type": "literal" , "value": "bond_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "carbon_hydrogen" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Hydrogen_atom" } ,
+        "quantities": { "type": "literal" , "value": "bond_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "cesium_atom" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Atom" } ,
+        "quantities": { "type": "literal" , "value": "mass_number_count, characteristic_emission_frequency" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bank_sediment_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "saturated_hydraulic_conductivity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bank_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "volume-per-length_flow_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_sediment_grain" } ,
+        "quantities": { "type": "literal" , "value": "d84_diameter, d50_diameter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_sediment_oxygen~dissolved" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Oxygen~dissolved" } ,
+        "quantities": { "type": "literal" , "value": "consumption_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_sediment_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "saturated_hydraulic_conductivity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "x_derivative_of_elevation, cross-stream_derivative_of_elevation, downstream_derivative_of_elevation, y_derivative_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "static_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "total_pressure, y_component_of_shear_velocity, x_component_of_shear_velocity, domain_min_of_log-law_roughness_length, domain_max_of_log-law_roughness_length, magnitude_of_shear_stress, dynamic_pressure, x_component_of_velocity, log-law_roughness_length, shear_speed, relative_smoothness_ratio, y_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_bottom_water_flow_sediment_grain" } ,
+        "quantities": { "type": "literal" , "value": "shields_critical_shear_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_centerline" } ,
+        "quantities": { "type": "literal" , "value": "downvalley_sinuosity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_centerline_endpoints" } ,
+        "quantities": { "type": "literal" , "value": "separation_distance, difference_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_entrance_basin" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Basin" } ,
+        "quantities": { "type": "literal" , "value": "total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_exit_basin" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Basin" } ,
+        "quantities": { "type": "literal" , "value": "total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_exit_water_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "volume-per-width_flow_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_meander" } ,
+        "quantities": { "type": "literal" , "value": "curvature_radius" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "kinematic_volume_viscosity, initial_volume, dynamic_shear_viscosity, kinematic_shear_viscosity, peak_time_of_volume_flow_rate, dynamic_volume_viscosity, static_pressure, mean_depth, time_derivative_of_volume" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "domain_max_of_manning_n_parameter, dynamic_pressure, x_y_component_of_stress, cross-stream_component_of_velocity, downstream_component_of_velocity, total_pressure, domain_min_of_manning_n_parameter, y_component_of_vorticity, y_component_of_velocity, x_component_of_velocity, x_z_component_of_stress, x_component_of_vorticity, z_component_of_velocity, half_of_fanning_friction_factor, z_component_of_vorticity, x_x_component_of_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_hydraulic-jump" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Hydraulic_jump" } ,
+        "quantities": { "type": "literal" , "value": "loss_of_energy" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_oxygen~photosynthetic" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Oxygen~photosynthetic" } ,
+        "quantities": { "type": "literal" , "value": "production_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_sediment_grain" } ,
+        "quantities": { "type": "literal" , "value": "stokes_settling_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_sediment~bedload_grain" } ,
+        "quantities": { "type": "literal" , "value": "immersed_weight" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "cross-stream_derivative_of_elevation, x_derivative_of_elevation, y_derivative_of_elevation, downstream_derivative_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_water_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "wetted_area, hydraulic_radius, domain_max_of_volume_flow_rate, max_of_depth, domain_max_of_mean_depth, domain_min_of_mean_depth, domain_min_of_volume_flow_rate, mean_depth, wetted_perimeter, domain_max_of_volume_flux, initial_mean_depth, domain_min_of_volume_flux, time_derivative_of_mean_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "min_of_elevation, max_of_elevation, max_of_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_x-section_parabola" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Parabola" } ,
+        "quantities": { "type": "literal" , "value": "coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_x-section_trapezoid_side" } ,
+        "quantities": { "type": "literal" , "value": "flare_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_x-section_trapezoid_side~left" } ,
+        "quantities": { "type": "literal" , "value": "flare_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "channel_x-section_trapezoid_side~right" } ,
+        "quantities": { "type": "literal" , "value": "flare_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_apex" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Apex_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "opening_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_apex-to-shoreline" } ,
+        "quantities": { "type": "literal" , "value": "min_of_distance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_beds~foreset" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_slope" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_channel~main_entrance" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Entrance" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle_of_velocity, elevation_angle_of_velocity, max_of_depth, mean_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_channel~main_entrance_water_sediment_sand_grain" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_diameter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_channel~main_entrance_water_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "wetted_area, wetted_perimeter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_distributary-network" } ,
+        "quantities": { "type": "literal" , "value": "total_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_distributary-network_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "max_of_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_distributary_outlet" } ,
+        "quantities": { "type": "literal" , "value": "top_width" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_distributary_outlet_water_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_front" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Front" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_slope" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_front_sediment" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Sediment" } ,
+        "quantities": { "type": "literal" , "value": "repose_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_front_sediment_grain" } ,
+        "quantities": { "type": "literal" , "value": "mean_diameter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_front_toe" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_plain~lower" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_slope" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_plain~subaqueous" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_slope" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_plain~upper" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_slope" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_plain~upper_vegetation" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Vegetation" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_height" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_shoreline" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Shoreline" } ,
+        "quantities": { "type": "literal" , "value": "y_coordinate, geodetic_latitude, x_coordinate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_shoreline_sediment_wave~ocean" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Wind_wave" } ,
+        "quantities": { "type": "literal" , "value": "reworking_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "delta_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "dip_angle, strike_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "dihydrogen_molecule_h-h" } ,
+        "quantities": { "type": "literal" , "value": "bond_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "dinitrogen_molecule_n-n" } ,
+        "quantities": { "type": "literal" , "value": "bond_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "dioxygen_molecule_o-o" } ,
+        "quantities": { "type": "literal" , "value": "bond_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_axis" } ,
+        "quantities": { "type": "literal" , "value": "precession_period, tilt_angle, nutation_period" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_crust_material" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Material" } ,
+        "quantities": { "type": "literal" , "value": "isothermal_compressibility_reference_temperature, log10_of_viscosity, oxygen_fugacity, p-wave_velocity, volume-specific_isochoric_heat_capacity, inverse_of_s-wave_velocity, dynamic_volume_viscosity, temperature_derivative_of_isothermal_compressibility, inverse_of_p-wave_velocity, kinematic_shear_viscosity, second_invariant_of_deviatoric_plastic_strain, magnetic_susceptibility, isothermal_compressibility, second_invariant_of_deviatoric_stress, domain_max_of_power-law_viscosity, domain_min_of_power-law_viscosity, mass-specific_isobaric_heat_capacity, log10_of_electrical_conductivity, electric_susceptibility, kinematic_volume_viscosity, mass-specific_isochoric_heat_capacity, inverse_of_electrical_conductivity, power-law_viscosity_reference_temperature, volume-specific_isobaric_heat_capacity, electric_permittivity, p-wave_velocity_over_s-wave_velocity_ratio, second_invariant_of_deviatoric_strain_rate, power-law_viscosity_activation_energy, sh-wave_velocity, sv-wave_velocity, dynamic_shear_viscosity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_datum_ellipsoid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ellipsoid" } ,
+        "quantities": { "type": "literal" , "value": "third_flattening_ratio, inverse_of_flattening_ratio, equatorial_radius, polar_radius, second_flattening_ratio" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_ellipsoid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ellipsoid" } ,
+        "quantities": { "type": "literal" , "value": "polar_radius, equatorial_radius, inverse_of_flattening_ratio" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_equator" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Equator" } ,
+        "quantities": { "type": "literal" , "value": "average_temperature" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_equator_plane-to-sun" } ,
+        "quantities": { "type": "literal" , "value": "declination_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_gravity" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Gravity" } ,
+        "quantities": { "type": "literal" , "value": "escape_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior" } ,
+        "quantities": { "type": "literal" , "value": "north_component_of_h_magnetic_field, down_component_of_electric_polarization, north_component_of_magnetic_polarization, north_component_of_electric_field, down_component_of_b_magnetic_field, east_component_of_b_magnetic_field, down_z_derivative_of_temperature, east_component_of_electric-displacement_field, down_component_of_magnetic_polarization, east_component_of_electric_field, north_component_of_electric_polarization, north_component_of_b_magnetic_field, east_component_of_h_magnetic_field, north_component_of_electric-displacement_field, east_component_of_magnetic_polarization, down_component_of_electric-displacement_field, down_component_of_h_magnetic_field, east_component_of_electric_polarization, down_component_of_electric_field" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Earthquake" } ,
+        "quantities": { "type": "literal" , "value": "east_up_component_of_seismic_moment, east_component_of_seismic_seismic_slip, drop_of_static_stress, release_energy, up_up_component_of_seismic_moment, up_south_component_of_seismic_moment, east_east_component_of_seismic_moment, magnitude_of_seismic_moment, south_south_component_of_seismic_moment, rupture_speed, seismic_slip_distance, seismic_slip_duration, seismic_slip_angle, seismic_slip_speed, drop_of_dynamic_stress, north_component_of_seismic_seismic_slip, south_east_component_of_seismic_moment, seismic_moment_energy, critical_seismic_slip_distance, radiated_seismic_energy" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_fault_plane" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Plane_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "dip_angle, strike_angle, rake_angle, rupture_area, rupture_length, rupture_width, seismic_slip-rake_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_fault_plane_asperity" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Asperity_(materials_science)" } ,
+        "quantities": { "type": "literal" , "value": "contact_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~p" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/P-wave" } ,
+        "quantities": { "type": "literal" , "value": "angular_frequency, takeoff_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~s" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/S-wave" } ,
+        "quantities": { "type": "literal" , "value": "takeoff_angle, angular_frequency" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~seismic" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave" } ,
+        "quantities": { "type": "literal" , "value": "name_(en)" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~seismic~love" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Seismic_wave#Love_waves" } ,
+        "quantities": { "type": "literal" , "value": "group_velocity, phase_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~seismic~p" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave#Primary_waves" } ,
+        "quantities": { "type": "literal" , "value": "takeoff_angle, angular_frequency" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~seismic~rayleigh" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave#Rayleigh_waves" } ,
+        "quantities": { "type": "literal" , "value": "group_velocity, phase_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_earthquake_wave~seismic~s" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave#Secondary_waves" } ,
+        "quantities": { "type": "literal" , "value": "takeoff_angle, angular_frequency" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_particle_motion" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Motion_(physics)" } ,
+        "quantities": { "type": "literal" , "value": "static_displacement" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_wave~seismic" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave" } ,
+        "quantities": { "type": "literal" , "value": "name_(en)" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_wave~seismic~love" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Seismic_wave#Love_waves" } ,
+        "quantities": { "type": "literal" , "value": "group_velocity, phase_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_wave~seismic~p" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave#Primary_waves" } ,
+        "quantities": { "type": "literal" , "value": "angular_frequency, takeoff_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_wave~seismic~rayleigh" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave#Rayleigh_waves" } ,
+        "quantities": { "type": "literal" , "value": "group_velocity, phase_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_interior_wave~seismic~s" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Seismic_wave#Secondary_waves" } ,
+        "quantities": { "type": "literal" , "value": "takeoff_angle, angular_frequency" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_mantle_material" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Material" } ,
+        "quantities": { "type": "literal" , "value": "inverse_of_electrical_conductivity, dynamic_shear_viscosity, power-law_viscosity_reference_temperature, volume-specific_isochoric_heat_capacity, mass-specific_isobaric_heat_capacity, electric_permittivity, sh-wave_velocity, second_invariant_of_deviatoric_strain_rate, domain_min_of_power-law_viscosity, dynamic_volume_viscosity, isothermal_compressibility, electric_susceptibility, mass-specific_isochoric_heat_capacity, log10_of_electrical_conductivity, temperature_derivative_of_isothermal_compressibility, domain_max_of_power-law_viscosity, p-wave_velocity, inverse_of_p-wave_velocity, oxygen_fugacity, second_invariant_of_deviatoric_stress, second_invariant_of_deviatoric_plastic_strain, kinematic_volume_viscosity, p-wave_velocity_over_s-wave_velocity_ratio, volume-specific_isobaric_heat_capacity, inverse_of_s-wave_velocity, log10_of_viscosity, kinematic_shear_viscosity, isothermal_compressibility_reference_temperature, sv-wave_velocity, magnetic_susceptibility, power-law_viscosity_activation_energy" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_mantle_material_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "z_component_of_velocity, x_component_of_velocity, y_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_mantle_material_mineral-phase" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mineral-phase" } ,
+        "quantities": { "type": "literal" , "value": "equation-of-state_(en), name_(en), internal_code_index, physical_state_(en), chemical_composition_(en), oxygen_fugacity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_mantle_material_mohr-coulomb-plastic" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mohr-coulomb-plastic" } ,
+        "quantities": { "type": "literal" , "value": "dilation_angle, cohesion_yield_stress, cutoff_tension_stress, friction_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_material" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Material" } ,
+        "quantities": { "type": "literal" , "value": "east_component_of_b_magnetic_field, east_component_of_electric-displacement_field, north_component_of_b_magnetic_field, north_component_of_electric_field, north_component_of_electric_polarization, east_component_of_electric_field, down_component_of_electric-displacement_field, down_component_of_magnetic_polarization, east_component_of_h_magnetic_field, p_wave_modulus, electric_susceptibility, north_component_of_magnetic_polarization, down_component_of_electric_polarization, down_component_of_h_magnetic_field, magnetic_susceptibility, east_component_of_magnetic_polarization, down_component_of_b_magnetic_field, east_component_of_electric_polarization, north_component_of_h_magnetic_field, down_component_of_electric_field, north_component_of_electric-displacement_field" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_orbit" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Orbit" } ,
+        "quantities": { "type": "literal" , "value": "aphelion_distance, perihelion_distance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_orbit_ellipse_foci" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Foci" } ,
+        "quantities": { "type": "literal" , "value": "separation_distance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "range_of_diurnal_temperature, average_temperature" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_station~seismic" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Seismometer" } ,
+        "quantities": { "type": "literal" , "value": "s-wave_arrival_time, p-wave_arrival_time, p-wave_travel_time, s-wave_travel_time, name_(en), network_(en)" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_station~seismic_component" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Component" } ,
+        "quantities": { "type": "literal" , "value": "name_(en)" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_station~seismic_data-acquisition-system" } ,
+        "quantities": { "type": "literal" , "value": "type_(en)" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_station~seismic_instrument-response" } ,
+        "quantities": { "type": "literal" , "value": "filter_type_(en)" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Perspective_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "solar_noon_time" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_jupiter" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Jupiter" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_mars" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mars" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_mercury" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Mercury" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_moon" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Moon" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_neptune" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Neptune" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_saturn" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Saturn" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_sun" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Sun" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle, elevation_angle, zenith_angle, azimuth_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_uranus" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Uranus" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_viewpoint_venus" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Venus" } ,
+        "quantities": { "type": "literal" , "value": "subtended_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "earth_surface_wind" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Wind" } ,
+        "quantities": { "type": "literal" , "value": "range_of_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "ethane_molecule_h-c-c-h" } ,
+        "quantities": { "type": "literal" , "value": "torsion_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_bed" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Bed_(disambiguation)" } ,
+        "quantities": { "type": "literal" , "value": "down_z_derivative_of_temperature" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_bed_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "slope_angle, aspect_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_bottom" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Bottom" } ,
+        "quantities": { "type": "literal" , "value": "sliding_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_bottom_ice" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ice" } ,
+        "quantities": { "type": "literal" , "value": "static_pressure, sliding_speed, magnitude_of_shear_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_bottom_ice_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "east_component_of_velocity, z_component_of_velocity, x_component_of_velocity, x_z_component_of_stress, east_down_component_of_stress, y_z_component_of_stress, north_down_component_of_stress, y_component_of_velocity, north_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_bottom_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "slope_angle, aspect_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_ice" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ice" } ,
+        "quantities": { "type": "literal" , "value": "volume-specific_isochoric_heat_capacity, change_from_annual_min_of_mass, volume-specific_isobaric_heat_capacity, mass-specific_isochoric_heat_capacity, domain_time_integral_of_melt_volume_flux, time_derivative_of_thickness, mass-specific_isobaric_heat_capacity, mass-specific_latent_sublimation_heat, north_derivative_of_temperature, y_derivative_of_temperature, isothermal_compressibility, thermal_diffusivity, azimuth_angle_of_gradient_of_temperature, time_derivative_of_mass, change_from_annual_min_of_volume, melt_volume_flux, melting_point_temperature, depression_of_melting_point_temperature, mass-specific_latent_fusion_heat, elevation_angle_of_gradient_of_temperature, x_derivative_of_temperature, mass-specific_latent_vaporization_heat, time_derivative_of_volume, initial_thickness, pressure_melting_point_temperature, accumulation_rate, dynamic_shear_viscosity, isentropic_compressibility, east_derivative_of_temperature, melt_mass_flux, down_derivative_of_temperature, magnitude_of_gradient_of_temperature, z_derivative_of_temperature, kinematic_volume_viscosity, kinematic_shear_viscosity, change_from_annual_min_of_thickness, dynamic_volume_viscosity, volumetric_thermal_expansion_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_ice_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "elevation_angle_of_velocity, dynamic_pressure, east_derivative_of_static_pressure, up_component_of_velocity, z_component_of_velocity, azimuth_angle_of_gradient_of_static_pressure, east_component_of_velocity, down_component_of_velocity, x_component_of_velocity, azimuth_angle_of_velocity, y_component_of_velocity, west_component_of_velocity, z_derivative_of_static_pressure, y_derivative_of_static_pressure, north_component_of_velocity, x_derivative_of_static_pressure, down_derivative_of_static_pressure, south_component_of_velocity, elevation_angle_of_gradient_of_static_pressure, magnitude_of_gradient_of_static_pressure, north_derivative_of_static_pressure, total_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_ice_meltwater" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Meltwater" } ,
+        "quantities": { "type": "literal" , "value": "domain_time_integral_of_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_ice~above-bed" } ,
+        "quantities": { "type": "literal" , "value": "normalized_distance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_top_ice" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ice" } ,
+        "quantities": { "type": "literal" , "value": "desublimation_volume_flux, desublimation_mass_flux, time_derivative_of_temperature, sublimation_mass_flux, sublimation_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_top_ice_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "y_component_of_velocity, x_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_top_ice_heat~net" } ,
+        "quantities": { "type": "literal" , "value": "time_max_of_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "glacier_top_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "range_of_elevation, aspect_angle, time_derivative_of_elevation, mean_of_elevation, min_of_elevation, max_of_elevation, slope_angle, mid-range_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "human_alcohol" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Alcohol" } ,
+        "quantities": { "type": "literal" , "value": "consumption_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "human_eye_photon" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Photon" } ,
+        "quantities": { "type": "literal" , "value": "lower_limit_of_detection_count" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "human_life" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Life" } ,
+        "quantities": { "type": "literal" , "value": "max_of_duration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "hydrogen_oxygen" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Oxygen" } ,
+        "quantities": { "type": "literal" , "value": "bond_energy" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "y_y_derivative_of_elevation, x_y_derivative_of_elevation, x_derivative_of_elevation, x_derivative_of_slope, min_normal_curvature, specific_contributing_area, domain_min_of_increment_of_elevation, profile_curvature, increment_of_elevation, sunshine_duration, domain_time_min_of_elevation, time_min_of_elevation, aspect_angle, max_normal_curvature, plan_curvature, y_derivative_of_slope, slope_angle, gaussian_curvature, y_derivative_of_elevation, laplacian_of_elevation, mean_curvature, topographic_wetness_index, domain_range_of_elevation, time_derivative_of_elevation, time_max_of_elevation, initial_elevation, x_x_derivative_of_elevation, streamline_curvature, anomaly_of_temperature, tangential_curvature, domain_time_max_of_elevation, domain_max_of_increment_of_elevation, domain_max_of_elevation, domain_min_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_base-level" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Base_level" } ,
+        "quantities": { "type": "literal" , "value": "time_derivative_of_elevation, initial_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_contour_segment" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Segment" } ,
+        "quantities": { "type": "literal" , "value": "total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_polygon" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Polygon" } ,
+        "quantities": { "type": "literal" , "value": "total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_radiation~incoming~longwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "direct_energy_flux, backscattered_energy_flux, diffuse_energy_flux, reflected_energy_flux, absorbed_energy_flux, one-hour_time_integral_of_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_radiation~incoming~total" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_radiation~outgoing~longwave" } ,
+        "quantities": { "type": "literal" , "value": "emitted_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_transect" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Transect" } ,
+        "quantities": { "type": "literal" , "value": "total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "y_derivative_of_pressure_head, infiltration_ponding_depth, potential_evaporation_volume_flux, east_derivative_of_depth, runoff_volume_flux, evaporation_mass_flux, baseflow_mass_flux, x_derivative_of_depth, domain_time_integral_of_runoff_volume_flux, east_derivative_of_pressure_head, time_derivative_of_depth, x_derivative_of_pressure_head, runoff_mass_flux, y_derivative_of_depth, evaporation_volume_flux, north_derivative_of_depth, baseflow_volume_flux, domain_time_integral_of_evaporation_volume_flux, north_derivative_of_pressure_head, domain_time_integral_of_baseflow_volume_flux, time_derivative_of_pressure_head" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "north_derivative_of_north_component_of_z_integral_of_velocity, north_derivative_of_east_component_of_z_integral_of_velocity, east_derivative_of_east_component_of_z_integral_of_velocity, time_derivative_of_y_component_of_z_integral_of_velocity, time_derivative_of_z_component_of_velocity, north_component_of_velocity, y_derivative_of_x_component_of_z_integral_of_velocity, x_component_of_velocity, time_derivative_of_north_component_of_velocity, magnitude_of_z_integral_of_velocity, y_derivative_of_y_component_of_z_integral_of_velocity, x_derivative_of_x_component_of_z_integral_of_velocity, east_component_of_velocity, east_derivative_of_north_component_of_z_integral_of_velocity, time_derivative_of_x_component_of_z_integral_of_velocity, x_derivative_of_y_component_of_z_integral_of_velocity, east_component_of_z_integral_of_velocity, azimuth_angle_of_velocity, y_component_of_z_integral_of_velocity, z_component_of_velocity, elevation_angle_of_velocity, y_component_of_velocity, time_derivative_of_east_component_of_velocity, time_derivative_of_east_component_of_z_integral_of_velocity, down_component_of_velocity, azimuth_angle_of_z_integral_of_velocity, x_component_of_z_integral_of_velocity, north_component_of_z_integral_of_velocity, time_derivative_of_y_component_of_velocity, time_derivative_of_x_component_of_velocity, time_derivative_of_down_component_of_velocity, time_derivative_of_north_component_of_z_integral_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_water_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "time_derivative_of_elevation, x_derivative_of_elevation, y_derivative_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface_wind" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Wind" } ,
+        "quantities": { "type": "literal" , "value": "speed_reference_height, reference_height_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_surface~10m-above_air_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "y_component_of_velocity, x_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_vegetation" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Vegetation" } ,
+        "quantities": { "type": "literal" , "value": "time_min_of_stomatal_resistance, reference_stomatal_resistance, annual_time_max_of_leaf-area_index" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_vegetation_canopy_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "transpiration_volume_flux, interception_volume_flux, throughfall_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "land_vegetation_floor_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "interception_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "magnesium-chloride_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "chemical_affinity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "mars_axis" } ,
+        "quantities": { "type": "literal" , "value": "tilt_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "mars_ellipsoid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ellipsoid" } ,
+        "quantities": { "type": "literal" , "value": "equatorial_radius" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "mars_orbit" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Orbit" } ,
+        "quantities": { "type": "literal" , "value": "synodic_period, sidereal_period" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "mercury_axis" } ,
+        "quantities": { "type": "literal" , "value": "precession_period" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Lattice_graph" } ,
+        "quantities": { "type": "literal" , "value": "primary_node_x_count, cell_count, shell_count, primary_node_y_count, dual_node_x_count, average_node_distance, primary_node_z_count, row_count, dual_node_z_count, dual_node_y_count, column_count" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_axis~x_axis~east" } ,
+        "quantities": { "type": "literal" , "value": "rotation_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Cell" } ,
+        "quantities": { "type": "literal" , "value": "d_infinity_slope, d_infinity_total_contributing_area, total_contributing_area, depth_index, row_index, surface_area, row-major-offset_index, d8_flow_width, d8_flow_length, column_index, d8_total_contributing_area" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_center" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Centre_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "geodetic_latitude, y_coordinate, x_coordinate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_centroid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Centroid" } ,
+        "quantities": { "type": "literal" , "value": "virtual_longitude, z_coordinate, x_coordinate, virtual_latitude, x_component_of_velocity, y_component_of_velocity, y_coordinate, z_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_edge_center" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Centre_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "z_component_of_velocity, virtual_longitude, x_component_of_velocity, x_coordinate, virtual_latitude, y_coordinate, z_coordinate, y_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_edge~north" } ,
+        "quantities": { "type": "literal" , "value": "geodetic_latitude" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_edge~south" } ,
+        "quantities": { "type": "literal" , "value": "geodetic_latitude" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_face_centroid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Centroid" } ,
+        "quantities": { "type": "literal" , "value": "virtual_latitude, x_coordinate, z_coordinate, x_component_of_velocity, y_component_of_velocity, z_component_of_velocity, y_coordinate, virtual_longitude" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle_of_velocity, time_derivative_of_volume" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~dual" } ,
+        "quantities": { "type": "literal" , "value": "surface_area, depth_index, d_infinity_total_contributing_area, d8_flow_length, d8_flow_width, d8_total_contributing_area, d_infinity_slope, total_contributing_area, row_index, row-major-offset_index, column_index" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~dual_centroid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Centroid" } ,
+        "quantities": { "type": "literal" , "value": "virtual_longitude, x_component_of_velocity, z_component_of_velocity, virtual_latitude, y_coordinate, x_coordinate, y_component_of_velocity, z_coordinate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~dual_edge_center" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Centre_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "virtual_longitude, y_component_of_velocity, virtual_latitude, x_component_of_velocity, z_coordinate, x_coordinate, y_coordinate, z_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~dual_face_centroid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Centroid" } ,
+        "quantities": { "type": "literal" , "value": "z_coordinate, y_component_of_velocity, z_component_of_velocity, y_coordinate, virtual_longitude, virtual_latitude, x_coordinate, x_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~primary" } ,
+        "quantities": { "type": "literal" , "value": "d8_flow_width, d8_total_contributing_area, column_index, row_index, d8_flow_length, row-major-offset_index, total_contributing_area, d_infinity_total_contributing_area, surface_area, d_infinity_slope, depth_index" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~primary_centroid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Centroid" } ,
+        "quantities": { "type": "literal" , "value": "x_coordinate, z_component_of_velocity, y_component_of_velocity, virtual_longitude, y_coordinate, x_component_of_velocity, z_coordinate, virtual_latitude" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~primary_edge_center" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Centre_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "x_component_of_velocity, x_coordinate, virtual_latitude, virtual_longitude, z_coordinate, y_coordinate, y_component_of_velocity, z_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_cell~primary_face_centroid" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Centroid" } ,
+        "quantities": { "type": "literal" , "value": "x_component_of_velocity, z_component_of_velocity, y_coordinate, x_coordinate, z_coordinate, virtual_longitude, virtual_latitude, y_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_edge~north" } ,
+        "quantities": { "type": "literal" , "value": "geodetic_latitude" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_edge~south" } ,
+        "quantities": { "type": "literal" , "value": "geodetic_latitude" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_node" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Vertex_(graph_theory)" } ,
+        "quantities": { "type": "literal" , "value": "y_component_of_velocity, virtual_latitude, x_component_of_velocity, y_coordinate, virtual_longitude, x_coordinate, z_coordinate, z_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_node~dual" } ,
+        "quantities": { "type": "literal" , "value": "virtual_longitude, y_component_of_velocity, x_component_of_velocity, virtual_latitude, z_coordinate, z_component_of_velocity, x_coordinate, y_coordinate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_node~primary" } ,
+        "quantities": { "type": "literal" , "value": "x_component_of_velocity, virtual_longitude, x_coordinate, y_coordinate, y_component_of_velocity, z_component_of_velocity, virtual_latitude, z_coordinate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_grid_virtual-north-pole" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_soil_layer~0" } ,
+        "quantities": { "type": "literal" , "value": "saturated_thickness" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_soil_layer~1" } ,
+        "quantities": { "type": "literal" , "value": "saturated_thickness" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "model_soil_layer~2" } ,
+        "quantities": { "type": "literal" , "value": "saturated_thickness" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "ozone_molecule_o-o" } ,
+        "quantities": { "type": "literal" , "value": "bond_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "pavement_rubber" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Natural_rubber" } ,
+        "quantities": { "type": "literal" , "value": "static_friction_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "projectile_origin" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Origin_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "y_component_of_acceleration, y_component_of_velocity, x_component_of_acceleration, z_component_of_acceleration, x_component_of_velocity, z_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "projectile_origin_land_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "aspect_angle, slope_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "projectile_origin_wind" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Wind" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle_of_velocity, z_component_of_velocity, elevation_angle_of_velocity, y_component_of_velocity, x_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "projectile_target" } ,
+        "quantities": { "type": "literal" , "value": "x_component_of_velocity, y_component_of_velocity, x_component_of_acceleration, z_component_of_acceleration, z_component_of_velocity, y_component_of_acceleration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "projectile_target_land_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "aspect_angle, slope_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "railway_curve" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Curve" } ,
+        "quantities": { "type": "literal" , "value": "minimum_radius" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "region_state_land~flooded" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Land~flooded" } ,
+        "quantities": { "type": "literal" , "value": "max_of_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bed_freshwater" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Fresh_water" } ,
+        "quantities": { "type": "literal" , "value": "net_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_radiation~incoming~longwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_radiation~incoming~total" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_radiation~outgoing~longwave" } ,
+        "quantities": { "type": "literal" , "value": "emitted_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_sediment" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Sediment" } ,
+        "quantities": { "type": "literal" , "value": "immersed_weight, deposition_age" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_sediment_grain" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_diameter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "y_derivative_of_elevation, time_derivative_of_elevation, x_derivative_of_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_surface_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "x_z_component_of_shear_stress, normal_component_of_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "magnitude_of_shear_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_water_debris_deposit" } ,
+        "quantities": { "type": "literal" , "value": "initial_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_water_debris_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "dynamic_shear_viscosity, yield_stress" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_bottom_water_debris_flow_shear-layer" } ,
+        "quantities": { "type": "literal" , "value": "flow_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_ice" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Ice" } ,
+        "quantities": { "type": "literal" , "value": "volume-specific_isobaric_heat_capacity, melt_volume_flux, sublimation_volume_flux, freeboard_height, time_derivative_of_extent, melting_point_temperature, depression_of_melting_point_temperature, time_derivative_of_volume, draft_depth, time_derivative_of_thickness, kinematic_volume_viscosity, mass-specific_isochoric_heat_capacity, dynamic_volume_viscosity, mass-specific_latent_sublimation_heat, time_derivative_of_area_fraction, sublimation_mass_flux, isentropic_compressibility, dynamic_shear_viscosity, isothermal_compressibility, kinematic_shear_viscosity, thermal_diffusivity, melt_mass_flux, volumetric_thermal_expansion_coefficient, mass-specific_latent_fusion_heat, volume-specific_isochoric_heat_capacity, mass-specific_isobaric_heat_capacity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_ice_radiation~incoming~longwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, transmitted_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_ice_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "absorbed_energy_flux, reflected_energy_flux, transmitted_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_ice_radiation~incoming~total" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, transmitted_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Shoreline" } ,
+        "quantities": { "type": "literal" , "value": "closure_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline_axis~x-to-axis~east" } ,
+        "quantities": { "type": "literal" , "value": "rotation_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline_vector~normal" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline_vector~tangent" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline_wave~breaking" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Breaking_wave" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle_of_phase_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline_wave~incoming" } ,
+        "quantities": { "type": "literal" , "value": "azimuth_angle_of_phase_velocity, azimuth_angle_of_left_normal_of_phase_velocity, azimuth_angle_of_group_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_shoreline_wave~incoming~deepwater" } ,
+        "quantities": { "type": "literal" , "value": "significant_height, azimuth_angle_of_left_normal_of_phase_velocity, azimuth_angle_of_phase_velocity, azimuth_angle_of_group_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_air" } ,
+        "quantities": { "type": "literal" , "value": "reference_temperature, magnitude_of_shear_stress, reference_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_air-vs-water" } ,
+        "quantities": { "type": "literal" , "value": "difference_of_temperature" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_air_carbon-dioxide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Carbon_dioxide" } ,
+        "quantities": { "type": "literal" , "value": "partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_air_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "z_component_of_velocity, x_component_of_shear_velocity, y_component_of_shear_velocity, magnitude_of_shear_velocity, y_component_of_velocity, shear_speed, x_component_of_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_air_water~vapor" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Water_vapor" } ,
+        "quantities": { "type": "literal" , "value": "partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "reflected_energy_flux, absorbed_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_storm_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "surge_height" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_leq-volume_flux, evaporation_mass_flux, anomaly_of_temperature, geopotential_height, precipitation_mass_flux, anomaly_of_geopotential_height, evaporation_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_carbon-dioxide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Carbon_dioxide" } ,
+        "quantities": { "type": "literal" , "value": "partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~2mk3" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~2n2" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~2q1" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~2sm2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~j1" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~k1" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~k2" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~l2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~lam2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~m1" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~m2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~m3" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~m4" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~m6" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~m8" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~mf" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~mk3" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~mm" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~mn4" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~ms4" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~msf" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~mu2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~n2" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~nu2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~o1" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~oo1" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~oo2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~p1" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~q1" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~r2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~rho" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~s1" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~s2" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~s4" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~s6" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~sa" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~ssa" } ,
+        "quantities": { "type": "literal" , "value": "degrees-per-hour_speed, phase_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_tide_constituent~t2" } ,
+        "quantities": { "type": "literal" , "value": "phase_angle, degrees-per-hour_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_wave" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Wave" } ,
+        "quantities": { "type": "literal" , "value": "phase_speed, refraction_angle, time_mean_of_height, orbital_speed, significant_height, angular_frequency, time_integral_from_start_of_cos_of_angular-frequency-times-time, group_speed, phase_angle, max_of_orbital_speed, observed_angular_frequency, intrinsic_angular_frequency, time_median_of_height" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_wave_crest_x-section" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Cross_section_(geometry)" } ,
+        "quantities": { "type": "literal" , "value": "vertex_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_surface_water_wave_ray" } ,
+        "quantities": { "type": "literal" , "value": "incidence_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "mass-specific_latent_vaporization_heat, eddy_viscosity, mass-specific_latent_fusion_heat, north_derivative_of_salinity, secchi_depth, isentropic_compressibility, y_derivative_of_salinity, y_derivative_of_temperature, osmotic_pressure, volume-specific_isobaric_heat_capacity, potential_temperature, time_derivative_of_temperature, magnitude_of_gradient_of_salinity, time_derivative_of_total_pressure, x_derivative_of_salinity, volume-specific_isochoric_heat_capacity, mass-specific_isobaric_heat_capacity, static_pressure, east_derivative_of_salinity, magnitude_of_vorticity, z_derivative_of_temperature, mass-specific_isochoric_heat_capacity, brunt_vaisala_frequency, north_derivative_of_temperature, time_average_of_square_of_salinity, isothermal_compressibility, flow_speed, elevation_angle_of_gradient_of_temperature, azimuth_angle_of_gradient_of_salinity, magnitude_of_gradient_of_temperature, azimuth_angle_of_gradient_of_temperature, time_derivative_of_north_component_of_velocity, z_derivative_of_salinity, volumetric_thermal_expansion_coefficient, elevation_angle_of_gradient_of_salinity, time_average_of_square_of_potential_temperature, x_derivative_of_temperature, east_derivative_of_temperature, anomaly_of_mass-per-volume_density" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_carbon-dioxide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Carbon_dioxide" } ,
+        "quantities": { "type": "literal" , "value": "partial_pressure" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_current~rip" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Rip_current" } ,
+        "quantities": { "type": "literal" , "value": "mean_flow_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_energy~kinetic~turbulent" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Turbulence_kinetic_energy" } ,
+        "quantities": { "type": "literal" , "value": "horizontal_diffusion_coefficient, vertical_diffusion_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "turbulent_kinetic_energy, x_component_of_momentum, y_y_component_of_radiation_stress, down_north_component_of_stress, y_z_component_of_reynolds_stress, x_x_component_of_reynolds_stress, east_component_of_velocity, magnitude_of_stokes_drift_velocity, x_y_component_of_radiation_stress, north_up_component_of_reynolds_stress, y_component_of_momentum, elevation_angle_of_bolus_velocity, x_x_component_of_radiation_stress, x_component_of_vorticity, azimuth_angle_of_vorticity, up_up_component_of_viscous_stress, north_up_component_of_stress, north_component_of_vorticity, up_up_component_of_stress, elevation_angle_of_stokes_drift_velocity, up_component_of_momentum, down_east_component_of_reynolds_stress, elevation_angle_of_velocity, down_east_component_of_stress, magnitude_of_bolus_velocity, elevation_angle_of_momentum, z_z_component_of_stress, z_component_of_bolus_velocity, up_component_of_velocity, north_derivative_of_pressure, y_component_of_bolus_velocity, up_derivative_of_pressure, x_y_component_of_stress, x_z_component_of_stress, east_up_component_of_reynolds_stress, z_integral_of_u_component_of_momentum, x_x_component_of_stress, north_north_component_of_stress, dynamic_pressure, east_east_component_of_viscous_stress, y_component_of_vorticity, east_north_component_of_reynolds_stress, z_derivative_of_pressure, azimuth_angle_of_velocity, x_y_component_of_reynolds_stress, magnitude_of_gradient_of_pressure, north_component_of_bolus_velocity, up_component_of_bolus_velocity, z_y_component_of_radiation_stress, x_x_component_of_viscous_stress, azimuth_angle_of_gradient_of_pressure, north_north_component_of_viscous_stress, z_component_of_vorticity, east_east_component_of_reynolds_stress, z_z_component_of_reynolds_stress, north_up_component_of_viscous_stress, z_integral_of_x_x_component_of_radiation_stress, y_y_component_of_reynolds_stress, south_component_of_vorticity, east_north_component_of_stress, down_east_component_of_viscous_stress, magnitude_of_momentum, time_average_of_z_integral_of_square_of_x_component_of_momentum, z_z_component_of_viscous_stress, total_pressure, azimuth_angle_of_momentum, y_y_component_of_viscous_stress, west_component_of_vorticity, y_component_of_velocity, elevation_angle_of_vorticity, z_component_of_momentum, x_z_component_of_reynolds_stress, z_component_of_stokes_drift_velocity, east_east_component_of_stress, x_z_component_of_viscous_stress, z_integral_of_v_component_of_momentum, x_component_of_stokes_drift_velocity, time_average_of_z_integral_of_square_of_y_component_of_momentum, azimuth_angle_of_stokes_drift_velocity, magnitude_of_vorticity, magnitude_of_stress, y_derivative_of_pressure, x_y_component_of_viscous_stress, magnitude_of_velocity, north_component_of_velocity, down_component_of_vorticity, z_x_component_of_radiation_stress, z_integral_of_x_y_component_of_radiation_stress, z_integral_of_y_y_component_of_radiation_stress, east_north_component_of_viscous_stress, east_derivative_of_pressure, y_z_component_of_stress, y_z_component_of_viscous_stress, azimuth_angle_of_bolus_velocity, elevation_angle_of_gradient_of_pressure, east_up_component_of_stress, y_component_of_stokes_drift_velocity, east_up_component_of_viscous_stress, x_derivative_of_pressure, x_component_of_velocity, east_component_of_vorticity, up_component_of_vorticity, north_component_of_momentum, north_north_component_of_reynolds_stress, up_up_component_of_reynolds_stress, z_component_of_velocity, x_component_of_bolus_velocity, east_component_of_momentum, y_y_component_of_stress, east_component_of_bolus_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_heat" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Heat" } ,
+        "quantities": { "type": "literal" , "value": "horizontal_diffusion_coefficient, vertical_diffusion_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_salt" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Salt_(chemistry)" } ,
+        "quantities": { "type": "literal" , "value": "horizontal_diffusion_coefficient, vertical_diffusion_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_tide" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Tide" } ,
+        "quantities": { "type": "literal" , "value": "range_of_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_wave~internal" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Internal_wave" } ,
+        "quantities": { "type": "literal" , "value": "angular_frequency" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sea_water_wave~internal~gravity" } ,
+        "quantities": { "type": "literal" , "value": "group_speed, phase_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snowpack_grains" } ,
+        "quantities": { "type": "literal" , "value": "mean_of_diameter" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snowpack_radiation~incoming~longwave" } ,
+        "quantities": { "type": "literal" , "value": "absorbed_energy_flux, reflected_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snowpack_radiation~incoming~shortwave" } ,
+        "quantities": { "type": "literal" , "value": "absorbed_energy_flux, reflected_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snowpack_radiation~incoming~total" } ,
+        "quantities": { "type": "literal" , "value": "absorbed_energy_flux, reflected_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snowpack_radiation~outgoing~longwave" } ,
+        "quantities": { "type": "literal" , "value": "emitted_energy_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snow~wet_rubber" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Natural_rubber" } ,
+        "quantities": { "type": "literal" , "value": "static_friction_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "snow~wet_ski~waxed" } ,
+        "quantities": { "type": "literal" , "value": "static_friction_coefficient" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_active-layer" } ,
+        "quantities": { "type": "literal" , "value": "saturated_thickness" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_clay" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Clay" } ,
+        "quantities": { "type": "literal" , "value": "oven-dried_mass_fraction" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_layer~top" } ,
+        "quantities": { "type": "literal" , "value": "saturated_thickness" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_loam" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Loam" } ,
+        "quantities": { "type": "literal" , "value": "oven-dried_mass_fraction" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_macropores" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Macropores" } ,
+        "quantities": { "type": "literal" , "value": "horizontal_saturated_hydraulic_conductivity, vertical_saturated_hydraulic_conductivity, cutoff_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_matter~organic" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Organic_matter" } ,
+        "quantities": { "type": "literal" , "value": "oven-dried_mass_fraction" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_sand" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Sand" } ,
+        "quantities": { "type": "literal" , "value": "oven-dried_mass_fraction" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_silt" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Silt" } ,
+        "quantities": { "type": "literal" , "value": "oven-dried_mass_fraction" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_surface_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "potential_infiltration_volume_flux, domain_time_integral_of_infiltration_volume_flux, infiltration_volume_flux, time_integral_of_infiltration_volume_flux, infiltration_mass_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "reference_depth_pressure_head, field-capacity_volume_fraction, normalized_hydraulic_conductivity, initial_hydraulic_conductivity, atterberg_plasticity_index, oven-dried_mass_fraction, residual_volume_fraction, wilting-point_volume_fraction, hygroscopic_pressure_head, oven-dried_pressure_head, wilting-point_pressure_head, saturated_volume_fraction, infiltration_volume_flux, atterberg_liquidity_index, green-ampt_capillary_length, air-dried_pressure_head, philip_sorptivity, bubbling_pressure_head, saturated_hydraulic_conductivity, initial_normalized_volume_fraction, potential_infiltration_volume_flux, field-capacity_pressure_head, effective_hydraulic_conductivity, atterberg_shrinkage_limit_volume_fraction, atterberg_liquid_limit_volume_fraction, infiltration_mass_flux, hygroscopic_volume_fraction, normalized_volume_fraction, pressure_head_reference_depth, pressure_head, atterberg_activity_index, effective_saturated_hydraulic_conductivity, atterberg_plastic_limit_volume_fraction, relative_hydraulic_conductivity, initial_volume_fraction" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_water_flow" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Flow" } ,
+        "quantities": { "type": "literal" , "value": "elevation_angle_of_darcy_velocity, y_component_of_darcy_velocity, x_component_of_darcy_velocity, z_component_of_darcy_velocity, azimuth_angle_of_darcy_velocity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_water_sat-zone_top" } ,
+        "quantities": { "type": "literal" , "value": "offset_depth, time_integral_of_recharge_volume_flux, recharge_mass_flux, domain_time_integral_of_recharge_volume_flux, recharge_volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "soil_water_sat-zone_top_surface" } ,
+        "wikip": { "type": "literal" , "value": "https://en.wikipedia.org/wiki/Surface_(mathematics)" } ,
+        "quantities": { "type": "literal" , "value": "y_derivative_of_elevation, x_derivative_of_elevation, initial_elevation" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "space-shuttle_tile" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Tile" } ,
+        "quantities": { "type": "literal" , "value": "isochoric_heat_capacity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "sulphuric-acid_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "chemical_affinity" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "tank~storage~open-top_outlet_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "flow_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "tank~storage~open-top_water" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Water" } ,
+        "quantities": { "type": "literal" , "value": "initial_depth" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "titan_atmosphere_methane" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Methane" } ,
+        "quantities": { "type": "literal" , "value": "precipitation_leq-volume_flux" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "toyota_corolla~2008" } ,
+        "quantities": { "type": "literal" , "value": "kelly-blue-book_price" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "toyota_corolla~2008_fuel" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Fuel" } ,
+        "quantities": { "type": "literal" , "value": "consumption_rate" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "venus_axis" } ,
+        "quantities": { "type": "literal" , "value": "tilt_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "venus_orbit" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Orbit" } ,
+        "quantities": { "type": "literal" , "value": "aphelion_distance, perihelion_distance" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "venus_orbit-to-ecliptic" } ,
+        "quantities": { "type": "literal" , "value": "inclination_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "virus_chicken-pox" } ,
+        "quantities": { "type": "literal" , "value": "incubation_period" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "water_molecule_h-o" } ,
+        "quantities": { "type": "literal" , "value": "bond_dissociation_energy, bond_length" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "water_molecule_h-o-h" } ,
+        "quantities": { "type": "literal" , "value": "actual_bond_angle, ideal_bond_angle" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "water_sand_grain" } ,
+        "quantities": { "type": "literal" , "value": "settling_speed" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "water_scuba-diver" } ,
+        "wikip": { "type": "literal" , "value": "http://en.wikipedia.org/wiki/Scuba-diver" } ,
+        "quantities": { "type": "literal" , "value": "dive_duration" }
+      } ,
+      {
+        "objname": { "type": "literal" , "xml:lang": "en" , "value": "water~vapor_air~dry" } ,
+        "quantities": { "type": "literal" , "value": "relative_molecular_mass_ratio" }
+      }
+    ]
+  }
+}

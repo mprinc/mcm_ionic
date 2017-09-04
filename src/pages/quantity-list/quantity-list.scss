@@ -1,0 +1,51 @@
+page-quantity-list {
+
+ion-list > .item:first-child {
+  transform: translate3d(0px, 0px, 0px) !important; }
+
+div.head{ padding-top:6px; padding-bottom:4px;}
+tr{padding-top:2px; padding-bottom:2px; padding-left:0px; padding-right:0px;}
+td{padding-top:2px; padding-bottom:2px; padding-left:0px; padding-right:0px;}
+
+// This worked.
+//ion-item{padding-top:20px !important; padding-bottom:20px !important; margin-top:0 !important; border-top-width:0 !important; }
+//ion-item{padding-top:0px !important; padding-bottom:0px !important; margin-top:0 !important; border-top-width:0 !important; }
+
+// This worked.
+//ion-label{padding-top:20px !important; padding-bottom:20px !important; margin-top:0 !important; border-top-width:0 !important;}
+//ion-label{padding-top:0px !important; padding-bottom:0px !important; margin-top:0 !important; border-top-width:0 !important;}
+
+// This worked, but only at top and bottom of the list.
+//ion-list{padding-top:20px !important; padding-bottom:20px !important; margin-top:0 !important; border-top-width:0 !important;}
+
+// This worked, but only at top and bottom of the card.
+//ion-card-content{padding-top:20px !important; padding-bottom:20px !important; margin-top:0 !important; border-top-width:0 !important;}
+
+// ion-content{padding-top:20px !important; padding-bottom:20px !important; margin-top:0 !important; border-top-width:0 !important;}
+
+// This worked, but caused header to disappear for some reason.
+//div{padding-top:20px !important; padding-bottom:20px !important; margin-top:0 !important; border-top-width:0 !important;}
+//div{padding-top:10px !important; padding-bottom:10px !important; margin-top:0 !important; border-top-width:0 !important;}
+//div{padding-top:0px !important; padding-bottom:0px !important; margin-top:0 !important; border-top-width:0 !important;}
+
+// This worked.
+//ion-item{height:100px !important;}
+//ion-item{height:0px !important;}
+
+//ion-item{padding-top:0px !important; padding-bottom:0px !important; }
+//ion-label{padding-top:0px !important; padding-bottom:0px !important; }
+//div{padding-top:0px !important; padding-bottom:0px !important; }
+
+// Causes header to disappear (margin-top)
+//ion-item{padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; }
+//ion-label{padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; }
+//div{padding-top:0px !important; padding-bottom:0px !important; margin-top:0px !important; }
+
+//ion-item{padding-top:0px !important; padding-bottom:0px !important; margin-bottom:0px !important; }
+//ion-label{padding-top:0px !important; padding-bottom:0px !important; margin-bottom:0px !important; }
+//div{padding-top:0px !important; padding-bottom:0px !important; margin-bottom:0px !important; }
+
+// No longer needed.  Was for radio buttons at top.
+// button{ background-color:rgba(0, 0, 0, 0.0); vertical-align: text-center;}
+
+}

@@ -1,0 +1,73 @@
+
+<ion-header>
+
+  <ion-navbar hideBackButton >
+    <ion-title>Help Page:<br>
+        <font ion-text color="primary"> Object Name List </font>
+    </ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding-left padding-right>
+<ion-scroll scrollY="true">
+<p>The <b>Object List Page</b> shows a list of all of the objects that
+are associated with a variable in the model you are currently viewing
+information for in the app.  The page is initially blank for models
+that have just been added using the <b>Add New Model</b> button on the
+<b>Model List Page</b>.  To add object names to this list, press the
+<b>Add Object</b> button at the bottom and then choose an object from
+the list.</p>
+
+<p>Below each object name there are four small buttons.  The first three
+buttons are labeled:
+<font ion-text color="primary"> <b>Q</b> </font> for Quantities,
+<font ion-text color="primary"> <b>P</b> </font> for Processes and
+<font ion-text color="primary"> <b>A</b> </font> for Assumptions.
+Press one of these to associate additional quantities, processes or
+assumptions with the corresponding object name. The last button has a
+<font ion-text color="primary"> <b>trash can</b> </font> icon and is used to
+delete an object name from the list, along with any additional
+information about quantities, processes and assumptions that may have
+been added previously.
+</p>
+
+<p>In the Geoscience Standard Names (GSN) ontology, <b>object names</b>
+start with "container words" that provide necessary context in order to
+unambiguously identify a particular object.  Separate words are separated
+by <font ion-text color="primary"> <b>underscores,</b> </font> which can
+often be read as <b>"has a"</b>. (Actual relationships between consecutive
+words in an object name are stored in the ontology as predicates.)
+<font ion-text color="primary"> <b>Hyphens</b> </font> are used to bind words that
+refer to the same entity, such as <b>carbon-dioxide</b>.
+Any word following a <font ion-text color="primary"> <b>tilde</b> </font>
+is an adjective to be applied to the preceding object name part.
+<b>Adjectives</b> are used to restrict the space of possibilities so that
+the entire object name is clear and unambiguous, referring to a unique object.
+<!-- Multiple adjectives can be applied to the same object name part. -->
+</p>
+
+<p>You will see that together, the context/container words and the trailing
+adjectives provide a nice alphabetical ordering to the object names and
+the variable names constructed from them.
+</p>
+
+<p>Note that a given word can sometimes be used as either an object
+name or a process name.  Examples include <b>radiation</b>, <b>flow</b>
+and <b>melt</b>.  Whenever one of these words occurs in a GSN object
+name, it indicates an object and not a process.  You will see that process
+names frequently occur in quantity names, for quantities that characterize
+the corresponding process (e.g infiltration).</p>
+
+</ion-scroll>
+</ion-content>
+
+
+<ion-footer no-shadow>
+
+  <ion-toolbar>
+     <button ion-button color="primary" (click)="dismissPage()"> Dismiss </button>
+  </ion-toolbar>
+
+</ion-footer>
+

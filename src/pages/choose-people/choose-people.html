@@ -1,0 +1,136 @@
+<!--
+  Generated template for the ChoosePeople page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Choose People Test
+      <!-- <br> <font ion-text color="primary"> {{model.name}} </font> -->
+    </ion-title>
+  </ion-navbar>
+
+
+  <!-- Call searchForWord() after each character as typed. -->
+  <!-- <ion-searchbar (ionInput)="searchForWord($event)" [debounce]="250" > </ion-searchbar> -->
+
+  <!-- Call searchForWord() only if user presses return. -->
+  <!-- <ion-searchbar (search)="searchForWord($event)" autocorrect="off" [debounce]="250" > </ion-searchbar> -->
+
+  <!-- Call searchForWord() only if user presses return. (Same as "search"?) -->
+  <ion-searchbar (change)="findWord($event)" (ionClear)="clearSearch($event)" (ionCancel)="cancelSearch($event)" autocorrect="off" [debounce]="250" > </ion-searchbar>
+
+  <!-- THIS VERSION USES searchForWord() and [(ngModel)].  ########
+  <!-- Call searchForWord() only if user presses return. (Same as "search"?) -->
+  <!-- Now just add (ngModel). Still doesn't replace with filtered list. -->
+  <!-- <ion-searchbar [(ngModel)]="searchTerm" (change)="searchForWord($event)" autocorrect="off" [debounce]="250" > </ion-searchbar>
+
+  <!-- THIS VERSION USES searchForWord2() and [(ngModel)].  ########
+  <!-- NOTE: (ionInput) is described as a listener that triggers call. -->
+  <!-- <ion-searchbar [(ngModel)]="searchTerm" (ionInput)="searchForWord2()" autocorrect="off" [debounce]="250"> </ion-searchbar> -->
+
+  <!-- From Josh Morony tutorial at: -->
+  <!-- http://www.joshmorony.com/high-performance-list-filtering-in-ionic-2/ -->
+  <!-- <ion-searchbar [(ngModel)]="searchTerm" [formControl]="searchControl"> </ion-searchbar> -->
+
+</ion-header>
+
+
+<ion-content padding>
+
+    <!-- Random People, Normal List Example -->
+    <ion-list>
+      <ion-item *ngFor="let p of people">
+        <h2>{{p.name.title}} {{p.name.first}} {{p.name.last}} </h2>
+        <p>{{p.location.street}}</p>
+        <p>{{p.location.city}} {{p.location.state}} {{p.location.postcode}}</p>
+      </ion-item>
+    </ion-list>
+
+    <!-- Random People, Virtual Scroll Example -->
+    <!--
+    <ion-list [virtualScroll]="people">
+      <ion-item *virtualItem="let p" (click)="addObject( p )">
+        <h2>{{p.name.title}} {{p.name.first}} {{p.name.last}} </h2>
+        <p>{{p.location.street}}</p>
+        <p>{{p.location.city}} {{p.location.state}} {{p.location.postcode}}</p>
+      </ion-item>
+    </ion-list>
+    -->
+
+    <!-- =================================================== -->
+    <!--  Josh Morony Virtual Scroll Example.      -->
+    <!--  Was "#item" vs. "let item" in original.  -->
+    <!--  Comment out <ion-avatar> block to work right. -->
+    <!-- =================================================== -->
+    <!-- <ion-list [virtualScroll]="items" [approxItemHeight]=" '130px' " [approxItemWidth]=" '130px' "> -->
+    <!-- <ion-list [virtualScroll]="items" approxItemHeight="130px" approxItemWidth="130px"> -->
+<!--
+    <ion-list [virtualScroll]="items">
+      <ion-item *virtualItem="let item">
+        <ion-avatar item-left>
+          <ion-img [src]="item.avatarUrl"></ion-img>
+        </ion-avatar>
+        <h2>{{item.title}}</h2>
+        <p>{{item.body}}</p>
+      </ion-item>
+    </ion-list>
+-->
+
+<!-- ========================================================================= -->
+  <!-- Simple Example code block. Uses random people data. -->
+<!--
+  <ion-list>
+    <ion-item *ngFor="let person of people" (click)="addObject($event)">
+      <ion-avatar item-left>
+        <img src="{{person.picture.thumbnail}}">
+      </ion-avatar>
+      <h2>{{person.name.first}} {{person.name.last}}</h2>
+      <p>{{person.email}}</p>
+    </ion-item>
+  </ion-list>
+-->
+
+  <!-- Virtual Scroll1 Example code block.  Doesn't work yet. -->
+<!--
+  <ion-list [virtualScroll]="people" approxItemHeight="50px">
+      <ion-item *virtualItem="#person">
+          <ion-avatar item-left>
+              <ion-img [src]="person.picture" width="48" height="48"></ion-img>
+          </ion-avatar>
+          <h2>{{person.name}}</h2>
+      </ion-item>
+  </ion-list>
+-->
+
+<!-- Used for both Simple and Virtual Scroll1 Example -->
+<!--
+  <ion-infinite-scroll (ionInfinite)="doInfinite($event)">
+    <ion-infinite-scroll-content></ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+-->
+
+</ion-content>
+
+
+<!-- Buttons in a footer. -->
+<ion-footer no-shadow>
+
+  <ion-toolbar>
+     <button ion-button color="primary" (click)="scrollToBottom()"> Scroll bottom </button>
+     <button ion-button color="primary" (click)="scrollToIndex(5)"> Scroll index </button>
+  </ion-toolbar>
+
+<!--
+  <ion-toolbar>
+    <ion-title>Add object:</ion-title>
+      <ion-buttons end>
+         <button ion-button large clear>
+             <ion-icon name="add-circle"></ion-icon> </button>
+      </ion-buttons>
+  </ion-toolbar>
+-->
+</ion-footer>

@@ -1,0 +1,141 @@
+{
+  "head": {
+    "vars": [ "assumption_type" , "assumptions" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "assumption_type": { "type": "literal" , "value": "Aerodynamics Models" } ,
+        "assumptions": { "type": "literal" , "value": "clark_z_airfoil_model, eppler_1200_airfoil_model, clark_x_airfoil_model, joukowski_airfoil_model, clark_y_airfoil_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Agent-Based Models" } ,
+        "assumptions": { "type": "literal" , "value": "reynolds_flocking_model, schelling_segregation_model, agent_based_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Approximations" } ,
+        "assumptions": { "type": "literal" , "value": "lanczos_approximation, binomial_approximation, born_approximation, frictionless_approximation, perturbation_series_approximation, diophantine_approximation, minimax_approximation, spouge_approximation, first-order_approximation, kirkwood_approximation, coopmans_approximation, central_field_approximation, born-huang_approximation, stirling_approximation, power-law_approximation, two-stream_approximation, rigid_lid_approximation, born-oppenheimer_approximation, empty-lattice_approximation, percus-yevick_approximation, steady-state_approximation, laurent_series_approximation, wkb_approximation, coherent_potential_approximation, gaussian_approximation, linear_approximation, pade_approximation, puiseux_series_approximation, mean-field_approximation, eikonal_approximation, infiltrated-depth_approximation, flat_space-time_approximation, adiabatic_approximation, shallow_water_wave_approximation, quadratic_approximation, local-density_approximation, taylor_series_approximation, small-angle_approximation, thin-lense_approximation, patched-conic_approximation, second-order_approximation, boussinesq_approximation, muffin-tin_approximation, deep_water_wave_approximation, gross-pitaevskii_approximation, shallow_water_approximation, heavy_traffic_approximation, wavelet_series_approximation, fourier_series_approximation, low_rank_approximation" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Atmosphere and Radiation Models" } ,
+        "assumptions": { "type": "literal" , "value": "rigid_lid, deep_snow, brutsaert_saturated_vapor_pressure_model, clear_sky, standard_pressure, boussinesq_approximation, standard_temperature, horizontal_plane_topography, sea_level_for_geoid, satterlund_saturated_vapor_pressure_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Boundary Condition Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "periodic_boundary_condition, tidal_boundary_condition, mixed_boundary_condition, cauchy_boundary_condition, free_surface_boundary_condition, no_slip_boundary_condition, natural_boundary_condition, pinned_boundary_condition, toroidal_boundary_condition, moving_boundary_condition, hinged_boundary_condition, constant_pressure_boundary_condition, stefan_boundary_condition, dirichlet_boundary_condition, clamped_boundary_condition, neumann_boundary_condition, no_normal_flow_boundary_condition, robin_boundary_condition" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Chemistry Models" } ,
+        "assumptions": { "type": "literal" , "value": "bohr_model, vespr_model, atomic_shell_model, nuclear_shell_model, rutherford_model, valence_bond_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Conserved Quantity Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "electric_charge_conserved, angular_momentum_conserved, momentum_conserved, energy_conserved, mass_conserved, linear_momentum_conserved, potential_vorticity_conserved" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Coordinate Systems" } ,
+        "assumptions": { "type": "literal" , "value": "geographic_coordinate_system, spherical_coordinate_system, right_hand_rule_coordinate_system, cartesian_coordinate_system, cylindrical_coordinate_system, parabolic_coordinate_system, terrain_following_vertical_coordinate_system, bipolar_coordinate_system, boundary-fitted_orthogonal_curvilinear_coordinate_system, orthogonal_curvilinear_coordinate_system, elliptic_coordinate_system, log-polar_coordinate_system, projected_coordinate_system" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Cosmological Models" } ,
+        "assumptions": { "type": "literal" , "value": "big_bounce_model, big_crunch_model, cyclic_model, conformal_cyclic_model, baum_frampton_model, big_bang_model, steinhardt_turok_model, dark_energy_model, lambda_cdm_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Dimensionality Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "3d, 1d, 2d" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Earthquake Models" } ,
+        "assumptions": { "type": "literal" , "value": "spring_block_seismic_model, slider_block_model, rough_fault_model, travelling_wave_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Ecological Models" } ,
+        "assumptions": { "type": "literal" , "value": "richards_growth_model, lotka_volterra_model, trophic_cascade_model, population_growth_model, kolmogorov_predator_prey_model, food_web_model, exponential_growth_model, logistic_growth_model, natural_selection_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Equations, Laws and Principles" } ,
+        "assumptions": { "type": "literal" , "value": "avogadro_law, minimal_surface_equation, combined_gas_law, snell_law, horton_law, poisson_equation, huygens_fresnel_principle, gay_lussac_law, euler_equation, reynolds_averaged_navier_stokes_equation, exner_equation, thermodynamics_second_law, law_of_the_wall, ehrenfest_equations, thermodynamics_first_law, mass_energy_equivalence, kirchoff_diffraction_formula, navier_stokes_equation, archimedes_principle, zipf_law, conservation_of_mass_law, stiff_equation, darcy_law, geodesic_equation, darcy_weisbach_equation, young_laplace_equation, wien_displacement_law, kepler_first_law_of_planetary_motion, cauchy_riemann_equations, gibrat_law, gauss_law_for_magnetism, biot_savart_law, friedmann_equations, thermodynamics_third_law, p_laplace_equation, henry_law, coulomb_law, dalton_law, richards_equation, planck_law, helmholtz_equation, fick_law, thermodynamics_zeroth_law, newton_third_law_of_motion, flint_law, ampere_law, gauss_law_for_electricity, kirchoff_circuit_laws, kepler_third_law_of_planetary_motion, manning_equation, fresnel_equations, gibbs_helmholtz_equation, faxen_law, euler_lagrange_equation, hack_law, ideal_gas_law, stefan_boltzmann_law, conservation_of_energy_law, laplace_equation, newton_law_of_universal_gravitation, bernoulli_principle, joule_first_law, biharmonic_equation, kepler_second_law_of_planetary_motion, conservation_of_momentum_law, diffusion_equation, stokes_law, burgers_equation, fourier_law, adams_williamson_equation, joule_second_law, maxwell_equations, poiseuille_law, ohm_law, newton_second_law_of_motion, lorentz_force_law, schroedinger_equation, newton_law_of_cooling, faraday_law, eikonal_equation, kirchoff_thermal_radiation_law, beer_lambert_law, nonlinear_diffusion_equation, geometric_optics_equation, glen_stress_strain_law, boltzman_equation, nernst_equation, einstein_field_equations, hubble_law, boyle_law, newton_first_law_of_motion" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Exclusions" } ,
+        "assumptions": { "type": "literal" , "value": "no_slipping, no_friction, no_baseflow, no_radial_flow, no_litter, no_antrhopogenic_land_use_change, no_relativistic_effects, no_aerosols, no_overbank_flow, no_swirl_flow, no_shadowing, no_sloped-terrain, no_snowfall, no_interception, no_clouds, no_rainfall, no_snow, no_anthropogenic_effects, no_macropores, no, no_longwave-radiation, no_resistance, no_waves, no_bioturbation, no_turbulence, no_shortwave-radiation, no_vegetation, no_tides" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Flow-Type Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "potential_flow, geostrophic_flow, supercritical_flow, no_radial_flow, turbulent_flow, hydrostatic_flow, stokes_flow, pressure_induced_flow, hypersonic_flow, hele_shaw_flow, high_froude_number_flow, high_reynolds_number_flow, nonaccelerating_flow, no_swirl_flow, laminar_flow, steady_flow, converging_flow, critical_flow, low_reynolds_number_flow, subcritical_flow, axisymmetric_flow, statistically_isotropic_turbulent_flow, diverging_flow, couette_flow, unsteady_flow, taylor_dean_flow, plug_flow, poiseuille_flow, boundary_layer_flow, supersonic_flow, separated_flow, taylor_couette_flow, transonic_flow, drag_induced_flow, low_froude_number_flow, hydraulically_smooth_flow, depth_integrated_flow, subsonic_flow, nonhydrostatic_flow, accelerating_flow, variable_area_flow, isentropic_flow, inviscid_flow, electro_osmotic_flow, viscous_flow, hydraulically_rough_flow, fully_developed_flow" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Fluid Dynamics Models" } ,
+        "assumptions": { "type": "literal" , "value": "turbulent_jet_model, burgers_vortex_model, batchelor_vortex_model, taylor_dean_flow_model, rankine_vortex_model, hill_spherical_vortex_model, free_surface_vortex_model, taylor_green_vortex_model, albertson_2d_turbulent_jet_model, couette_flow_model, free_vortex_model, taylor_couette_flow_model, horseshoe_vortex_model, poiseuille_flow_model, lamb_oseen_vortex_model, rigid_body_vortex_model, trailing_vortex_model, lamb_chaplygin_dipole_vortex_model, goertler_2d_turbulent_jet_model, vortex_ring_model, peckham_2d_turbulent_jet_model, tollmien_2d_turbulent_jet_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Fluid-Type Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "nonnewtonian_fluid, pseudoplastic_fluid, viscoelastic_fluid, compressible_fluid, quemada_fluid, carreau_fluid, kelvin_voigt_fluid, thixotropic_fluid, incompressible_fluid, second_order_fluid, dilatant_fluid, super_fluid, boger_fluid, bingham_plastic_fluid, maxwell_fluid, viscoplastic_fluid, oldroyd_fluid, cross_fluid, casson_fluid, first_order_fluid, power_law_fluid, newtonian_fluid, rheopectic_fluid, herschel_bulkley_fluid" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Function-Type Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "analytic_function, step_function, logit_function, ricker_wavelet_function, bijective_function, log_function, constant_function, nonnegative_function, ellipse_function, monotonic_function, continuous_surface, polynomial_function, triangle_wave_function, chebyshev_polynomial_function, gaussian_function, inverse_function, increasing_function, hermitian_wavelet_function, linear_function, differentiable_twice_surface, differentiable_surface, complex_valued_function, real_valued_function, continuous_function, negative_function, daubechies_d2_wavelet_function, sawtooth_wave_function, probit_function, injective_function, hermite_polynomial_function, golden_spiral_function, differentiable_twice_function, dirac_delta_function, holomorphic_function, decreasing_function, identity_function, periodic_function, exponential_function, gompertz_function, nondecreasing_function, haar_wavelet_function, cosine_function, probability_density_function, circle_function, square_wave_function, sqrt_function, hyperbola_function, positive_function, tanh_function, differentiable_function, power_law_function, log_spiral_function, gamma_function, harmonic_function, sine_function, beta_density_function, cumulative_distribution_function, parabola_function, discontinuous_function" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "General Physics Models" } ,
+        "assumptions": { "type": "literal" , "value": "simple_pendulum_model, foucault_pendulum_model, vibrating_string_model, standard_particle_physics_model, harmonic_oscillator_model, double_pendulum_model, quantum_harmonic_oscillator_model" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Geodynamics Models" } ,
+        "assumptions": { "type": "literal" , "value": "k_epsilon_model, phong_illumination_model, lbl_infiltration_model, unconfined_aquifer, eddy_viscosity_model, d_infinity_surface_flow_model, shuttleworth_evaporation_model, debruin_evaporation_model, isotropic_medium, cook_torrance_illumination_model, deep_water_wave, philip_infiltration_model, thornthwaite_water_balance_model, blaney_criddle_evaporation_model, hydrostatic_pressure_head, inclined_plane, inbank_flow, brooks_corey_soil_model, darcy_soil_model, dynamic_wave_model, hydraulic_gradient_invariant_with_depth, ehrenfest_urn_model, energy_balance_snowmelt_model, law_of_the_wall, diffusive_wave, kohler_nordenson_fox_evaporation_model, ward_anisotropic_illumination_model, smith_parlange_infiltration_model, convergent_or_divergent_topography, direct_numerical_simulation_model, homogeneous_medium, rational_regime_model, horton_infiltration_model, energy_balance_evaporation_model, muskingum_flow_routing_model, kohler_parmele_evaporation_model, voter_model, bond_percolation_model, hagen_poiseuille, unnamed_empirical_law, horizontal_flowlines, overbank_flow, cellular_automata_model, airy_wave_model, passive_scalar, penrose_tiling_model, confined_aquifer, black_body_model, hydraulic_gradient_equals_free_surface_gradient, beven_infiltration_model, supply_limited_sediment_transport, van_genuchten_soil_model, gray_body_model, phong_shading_model, manning_flow_resistance_model, kelvin_wave, penman_evaporation_model, impermeable_horizontal_base, sheet_flow, stokes_wave, liquid_water_equivalent, fully_developed_sea, kinematic_wave, jensen_haise_evaporation_model, spatially_uniform_rainfall, large_eddy_simulation_model, spalart_allmaras_model, tsunami_wave_model, priestley_taylor_evaporation_model, menter_shear_stress_transport_model, richards_1d_infiltration_model, prismatic_channels, interacting_particle_system_model, impermeable_surface, kolmogorov_statistical_turbulence_model, potts_model, capillary_wave_model, dupuit_assumption, lattice_gas_model, fisher_droplet_model, steady_state_recharge, diffusive_wave_model, convergent_topography, manning_equation, lambert_illumination_model, general_relativity_model, hydrologically_sound, dynamic_wave, mass_flux_method_flow_between_cells, white_body_model, einstein_sediment_transport_model, sherman_grimsrud_infiltration_model, russell_solitary_wave_model, smagorinsky_model, d8_flow_between_cells, detachment_limited_sediment_transport, reynolds_averaged_navier_stokes_model, detached_eddy_simulation_model, dimer_model, gouraud_shading_model, hargreaves_evaporation_model, shallow_water_wave, impermeable_lower_boundary, bagnold_sediment_transport_model, k_omega_model, d8_surface_flow_model, ising_model, self_similar_tree_model, minnaert_illumination_model, degree_day_snowmelt_model, hydraulic_jump, hydraulic_geometry_at_a_station_model, special_relativity_model, penman_monteith_evaporation_model, sandpile_model, infiltrated_depth_approximation, aperiodic_tiling_model, overland_flow, law_of_the_wall_flow_resistance_model, oren_nayer_illumination_model, rossby_wave, channel_width_less_than_model_cell_width, diffusion_limited_aggregation_model, blinn_phong_illumination_model, richards_3d_infiltration_model, kinematic_wave_model, solitary_wave_model, meier_peter_mueller_sediment_transport_model, scs_curve_number_infiltration_model, kelvin_wave_model, edge_wave, transitional_brooks_corey_soil_model, korteweg_devries_solitary_wave_model, green_ampt_infiltration_model, bankfull_flow, stokes_wave_model, cnoidal_wave_model, shore_parallel_contours, hydraulic_geometry_downstream_model, site_percolation_model, asce_standardized_evaporation_model, power_law, harmonic_function, komar_longshore_sediment_transport_model, prandtl_mixing_length_model, logistic_map_model, flat_shading_model, stewart_rouse_evaporation_model, mass_flux_flow_model, hydraulic_gradient_equals_land_surface_gradient, carnot_heat_engine_model, d_infinity_flow_between_cells" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Geometric Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "octagon_shaped, concave_upward, rhombus_shaped, cylinder_shaped, parabola_shaped, concave, square_shaped, cube_shaped, rectangle_shaped, cone_shaped, hyperbola_shaped, square_pyramid_shaped, prism_shaped, half_plane, ellipsoid_shaped, hexagon_shaped, semicircle_shaped, triangular_pyramid_shaped, pentagon_shaped, trapezoid_shaped, convex, circle_shaped, ellipse_shaped, sphere_shaped" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Material-Type Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "nonlinear_elastic_material, homogeneous_material, semicrystalline_material, compressible_material, mohr_coulomb_material, elastoviscoplastic_material, hyperelastic_material, composite_material, auxetic_material, isotropic_material, kelvin_voigt_material, cauchy_elastic_material, viscoplastic_material, viscoelastic_material, polymeric_material, linear_elastic_material, thermoelastic_material, crystalline_material, glass_material, elastic_material, hypoelastic_material, elastoplastic_material, ceramic_material, bio_material, incompressible_material, plastic_material, maxwell_material, amorphous_material, solid_material" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Mathematical Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "fixed_point, real-valued, superposition, constant_coefficients, negative, differentiable, orthogonal, closed, differentiable_three_times, conformal, integer-valued, jordan_curve, algebraic, uniform, bijection, continuous, differential, uncountably_infinite, positive, differentiable_twice, nonnegative, countably_infinite, continuum, rational, multiple_valued_function, ill-posed, discontinuous, contraction_mapping, degenerate, projection, nonlinear, well-posed, linear, complex-valued, permutation, equal_mixed_partials, irrational, compact, infinite, time_space_substitution, symmetric, spatially_uniform, bounded, weak_solution, injective, invertible, finite" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Numerical Grid Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "arakawa_v_component, voronoi_polygon_grid, triangle_grid, arakawa_e_grid, arakawa_u_component, arakawa_b_grid, boundary-fitted_grid, arakawa_a_grid, adaptive_grid, arakawa_d_grid, square_grid, delaunay_triangle_grid, rectilinear_grid, unstructured_grid, orthogonal_curvilinear_grid, block_structured_grid, arakawa_c_grid, hexagon_grid, staggered_grid, structured_grid, uniform_grid, arakawa_w_component" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Numerical Method Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "central_difference_scheme, absolutely-stable_method, implicit_method, lax-wendroff_method, heun_method, finite_volume_method, relatively_stable_method, dynamic_relaxation_method, finite_element_method, backward_difference_scheme, runge_kutta_method, gauss-seidel_method, l-stable_method, conditionally_stable_method, euler_method, second-order_accurate_method, verlet_integration_method, interior_point_method, meshfree_method, collocation_method, analytic_element_method, unstable_method, characteristics_method, multigrid_method, a-stable_method, upwind_difference_scheme, upwind_first-order_scheme, convergent_method, lax-friedrichs_method, spectral_method, galerkin_method, first_order_accurate, strongly_stable_method, conjugate_gradient_method, adaptive_stepsize_method, forward_difference_scheme, backward_euler_method, gauss-legendre_method, explicit_method, leapfrog_method, linear_multistep_method, halley_method, successive_over_relaxation_method, maccormack_method, shooting_method, discrete_event_simulation, adams-bashforth_method, split-step_method, five-point_stencil_method, predictor-corrector_method, level_set_method, discrete_element_method, adjoint_state_method, consistent_method, boundary_element_method, trapezoidal_rule_method, landweber_iteration_method, forward_time_centered_space_scheme, upwind_third-order_scheme, relaxation_method, lattice_boltzmann_method, crank-nicolson_method, large_eddy_simulation, particle-in-cell_method, newton_raphson_method, rayleigh-ritz_method, numerov_method, unconditionally_stable_method, iterative_method, midpoint_method, upwind_second-order_scheme, finite_difference_method, adaptive_mesh_refinement_method, direct_numerical_solution, fast_marching_method" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Probability Distributions" } ,
+        "assumptions": { "type": "literal" , "value": "hitting-time_distribution, maximum_entropy_probability_distribution, holtsmark_distribution, kent_distribution, tukey-lambda_distribution, elliptical_distribution, poisson-binomial_distribution, parabolic-fractal_distribution, geometric_distribution, unimodal_distribution, triangular_distribution, borel_distribution, rayleigh_distribution, dirichlet_distribution, laplace_distribution, truncated_distribution, student-t_distribution, log-normal_distribution, burr_distribution, reciprocal_distribution, benford_distribution, pascal_distribution, maxwell-boltzmann_distribution, dagum_distribution, hyperbolic-secant_distribution, zeta_distribution, joint-probability_distribution, frechet_distribution, symmetric_distribution, polya_distribution, beta-prime_distribution, boltzmann_distribution, pearson_distribution, hypergeometric_distribution, log-cauchy_distribution, chi-squared_distribution, identically_distributed, generalized_pareto_distribution, stable_distribution, skellam_distribution, beta_distribution, tracy-widom_distribution, logarithmic_distribution, multinomial_distribution, binomial_distribution, erlang_distribution, gaussian_distribution, discrete_uniform_distribution, negative-binomial_distribution, rice_distribution, log-poisson_distribution, arcsine_distribution, irwin-hall_distribution, pareto_distribution, first-contact_distribution, weibull_distribution, log-logistic_distribution, half-normal_distribution, generalized_extreme_value_distribution, zipf_distribution, mixture_distribution, exponential_distribution, von-mises_distribution, beta-binomial_distribution, u-quadratic_distribution, poisson_distribution, champernowne_distribution, inverse-gamma_distribution, continuous_uniform_distribution, lomax_distribution, rademacher_distribution, yule-simon_distribution, nakagami_distribution, dirichlet-multinomial_distribution, gompertz_distribution, gamma_distribution, cauchy_distribution, bimodal_distribution, levy_distribution, bernoulli_distribution, borel-tanner_distribution, inverse-gaussian_distribution, discrete_distribution, rayleigh-mixture_distribution, logistic_distribution, multimodal_distribution, logit-normal_distribution, log-symmetric_distribution, landau_distribution, skew-normal_distribution, geometric-stable_distribution, voigt_distribution, gumbel_distribution, independently_distributed, hyperbolic_distribution, von-mises-fisher_distribution, slash_distribution, continuous_distribution, bates_distribution" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Sign and Angle Conventions" } ,
+        "assumptions": { "type": "literal" , "value": "x-axis_directed_offshore, y-axis_directed_alongshore, x-axis_directed_downwind, z-axis_directed_downward, counter-clockwise_from_east_azimuth_convention, z-axis_normal_to_surface, counter-clockwise_from_x_axis_azimuth_convention, clockwise_from_east_azimuth_convention, z-axis_directed_upward, clockwise_from_north_azimuth_convention, clockwise_from_south_azimuth_convention" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "State of Matter Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "solid_phase, liquid_phase, gas_phase, plasma_phase" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Statistical Operation Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "watershed_averaged, month_averaged, year_averaged, day_averaged, population_averaged, cell_averaged, section_averaged, time_averaged, hour_averaged, vertically_averaged, domain_averaged, depth_averaged, interval_averaged, sample_averaged" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Stochastic Model Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "independent_increments, ornstein_uhlenbeck_process, pure_jump_process, random_tree_process, jump_process, inhomogeneous_poisson_process, discrete_process, blue_noise_process, negative, brownian_motion_process, stationary_process, point_process, chinese_restaurant_process, brownian_bridge_process, markov_process, poisson_process, renewal_process, random_walk_process, ergodic_process, homogeneous, counting_process, random_multiplicative_cascade_process, semi_markov_process, mckean_vlasov_process, moran_process, pink_noise_process, jump_diffusion_process, galton_watson_process, violet_noise_process, positive, discrete_time_process, nonnegative, poisson_line_process, stable_process, self_avoiding_random_walk_process, branching_process, coverage_process, weak_stationarity_of_order_k, shot_noise_process, martingale_process, continuous_time_process, poisson_polygon_process, white_noise_process, buffon_needle_process, cox_point_process, contact_process, autoregressive, bernoulli_process, colored_noise_process, risk_process, storage_process, gaussian_white_noise_process, dirichlet_process, levy_process, uncorrelated, fractional_brownian_motion_process, moving_average, infinitely_divisible_process, compound_poisson_process, wiener_process, grey_noise_process, telegraph_process, local_time_process, schramm_loewner_evolution_process, red_noise_process, ito_diffusion_process, poisson_event_process, diffusion_process, geometric_brownian_motion_process, birth_death_process, bessel_process, linear_least_squares_regression, cauchy_process, second_order_stationary_process, poisson_point_process, nonlinear_least_squares_regression, continuous_process, hunt_process, feller_process, nonstationary_process, polya_tree_process, power_law_noise_process" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "System State Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "dynamic_equilibrium, stable, equilibrium, metastable, ergodic, unsteady_state, bistable, static_equilibrium, unstable, steady_state, asymptotic_equilibrium" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "Thermodynamic Process Assumptions" } ,
+        "assumptions": { "type": "literal" , "value": "irreversible_process, adiabatic_process, endothermic_process, cyclic_process, reversible_process, diabatic_process, thermal_equilibrium, endoreversible_process, isothermal_process, isochoric_process, quasistatic_process, isenthalpic_process, exothermic_process, isentropic_process, isocaloric_process, isobaric_process, polytropic_process" }
+      } ,
+      {
+        "assumption_type": { "type": "literal" , "value": "VSEPR                 (to compute molecular geometry)" } ,
+        "assumptions": { "type": "literal" , "value": "kramers_kronig_relations, dispersion_relation, boussinesq_buoyancy_approximation" }
+      }
+    ]
+  }
+}

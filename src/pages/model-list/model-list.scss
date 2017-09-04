@@ -1,0 +1,23 @@
+page-model-list {
+
+td{padding:15px}
+/*
+bluish: #5d95c7
+ltblue: #d8e0ec
+ltrblue: #edf1f6
+yellow:  #ffff6f
+*/
+
+ion-list { margin-left: 10 px;}
+/* ion-card { margin-left: 10 px;} */
+
+tr.header{ background: #5d95c7; font-size:14pt;
+           font-weight:bold; border:solid 1px #000000; width:100%;}
+
+tr.even{ background: #d8e0ec; font-size:12pt;
+    font-weight:normal; border:solid 1px #000000; width:100%;}
+
+tr.odd{  background: #edf1f6; font-size:12pt;
+    font-weight:normal; border:solid 1px #000000; width:100%; }
+
+}

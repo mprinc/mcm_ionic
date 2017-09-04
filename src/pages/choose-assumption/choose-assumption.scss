@@ -1,0 +1,13 @@
+page-choose-assumption {
+
+ion-list.scroll > .item:first-child {
+  transform: translate3d(0px, 0px, 0px) !important; }
+
+//------------------------------------------
+// Try to make select fill available width
+//--------------------------------------------------------
+// Using "max-width" solved problem on browser, iOS, ...
+//--------------------------------------------------------
+ion-select {width: 55%; max-width: 100% !important;}
+
+}

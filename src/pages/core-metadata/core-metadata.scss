@@ -1,0 +1,93 @@
+page-core-metadata {
+
+//------------------------------------------
+// Try to make select fill available width
+//--------------------------------------------------------
+// Using "max-width" solved problem on browser, iOS, ...
+//--------------------------------------------------------
+ion-select {width: 500px; max-width: 100% !important;}
+
+//ion-select { width:700px !important; }
+//ion-select { width:500px;}    // works in browser view, not on iOS
+//ion-select { overflow: hidden;}
+//ion-select { overflow: auto;}  // works in browser view, not on iOS
+//ion-select { width: 300px;}    // works in browser view
+//ion-select { width: 100%;}     // works in browser view
+//ion-select { width: 20%;}      // works in browser view
+
+//---------------------------------------------------------------------
+// Don't change opacity when input and select are disabled.
+// https://forum.ionicframework.com/t/style-disabled-ion-select/73805
+// https://github.com/driftyco/ionic/search?p=2&q=disabled+opacity&type=Code&utf8=✓
+//---------------------------------------------------------------------
+.select-disabled, .item-select-disabled ion-label { opacity: 1.0; }
+
+//---------------------------------------------------------------------
+// Found this trick that makes text fully black on Safari & Chrome
+// http://stackoverflow.com/questions/262158/disabled-input-text-color
+//---------------------------------------------------------------------
+.text-input[disabled]{ opacity: 1.0; -webkit-text-fill-color:#000000; }
+
+//-----------------------------------------------
+// In Safari, much darker, but not fully black.
+// In Chrome, fully black.
+//-----------------------------------------------
+//.text-input[disabled]{ opacity: 1.0;}
+
+
+// Text is still not fully black with all of these.
+//.text-input[disabled] { opacity: 1.0; color:"black";}
+//.text-input[disabled] { opacity: 1.0; color:"#000000";}
+//.text-input[disabled], .item-input-disabled { opacity: 1.0; }
+// ion-input[ disabled ]{ opacity: 1.0; }
+//.text-input-disabled{ opacity: 1.0; }
+//.native-input[disabled]{ opacity: 1.0; }
+//.text-input[disabled]{ opacity: 1.0 !important;}
+//.text-input[disabled]{ opacity: 1.0 important;}
+//.text-input:disabled { -fx-opacity: 1.0; }   // found online
+//.text-input[-fx-disabled]{ opacity: 1.0;}   // Much darker, but not fully black.
+
+// This didn't work.  Probably a bug in Ionic 2.
+//.input-disabled,  .item-input-disabled ion-label { opacity: 1.0; }
+
+// And none of these worked.
+//ion-input { opacity: 1.0; }
+//ion-input.disabled { opacity: 1.0; }
+//.input-disabled { opacity: 1.0; }
+//.item-input-disabled { opacity: 1.0; }
+//.text-input-disabled { opacity: 1.0; }
+
+//---------------------------------------------------------------------
+// Try to shrink the padding between label and input or select
+//---------------------------------------------------------------------
+
+// This seems to have no effect.
+// ion-label{ width: 10px;}
+
+// This has an effect.
+// ion-item{ height: 30px;|
+
+// This didn't work.
+//.item-content {
+//    padding-top: 12px;
+//    padding-bottom: 12px;
+//    margin-top: -4px;
+//    margin-bottom: -4px;
+//    height: 70px;
+//}
+
+// This didn't work.
+//.item {
+//    min-height: 3rem;   // <- this can be whatever you need
+//}
+//ion-label { margin: 0px 0px 0px 0; }
+//ion-input { margin: 0px 0px 0px 0; }
+
+// This didn't work.
+// ion-label{margin-right: 0px; padding-right: 0px;}
+// ion-input{margin-left: 0px; padding-left: 0px;}
+
+// Not working, but see change in: variables.scss.
+// select{text-align: left;}
+
+}

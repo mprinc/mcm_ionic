@@ -1,0 +1,293 @@
+
+
+// Starter material for JSON with GSN operations, by type.
+// At the end, some additional info for georeferencing and data types.
+
+"time_derivatives" :
+["time_derivative_of", "2nd_time_derivative_of", "3rd_time_derivative_of"],
+
+"spatial_derivatives" :
+alongshore_derivative_of
+cross-shore_derivative_of
+cross-stream_derivative_of
+east_derivative_of
+normal_derivative_of
+north_derivative_of
+offshore_derivative_of
+streamwise_derivative_of
+tangential_derivative_of
+u_derivative_of
+u_u_derivative_of
+u_v_derivative_of
+v_derivative_of
+v_u_derivative_of
+v_v_derivative_of
+x_derivative_of
+x_x_derivative_of     or  2nd_x_derivative_of ??
+x_y_derivative_of
+y_derivative_of
+y_x_derivative_of
+y_y_derivative_of
+z_derivative_of
+
+"special_derivatives" :
+advective_derivative_of
+directional_derivative_of
+material_derivative_of
+
+"time_integrals" :
+one_day_time_integral_of
+one_hour_time_integral_of
+one_year_time_integral_of     or   annual_time_integral_of
+time_integral_of
+time_integral_from_start_of   ??
+
+"spatial_integrals" :
+area_integral_of
+basin_integral_of
+domain_integral_of
+globe_integral_of
+line_integral_of
+volume_integral_of
+z_integral_of
+
+"space_time_integrals" :
+area_time_integral_of
+domain_time_integral_of
+globe_time_integral_of
+
+"functions_of_one_variable" :
+abs_of
+cos_of
+cosh_of
+exp_of
+half_of
+inverse_of
+log_of
+log10_of
+minus_of
+fourth_of
+reciprocal_of
+sin_of
+sinh_of
+sgn_of
+sqrt_of
+square_of
+tan_of
+tanh_of
+third_of
+
+<p>_fraction_of  ??
+<p>_power_of     ??
+
+"functions_of_two_variables" :
+Better to use "infix" operators:  plus, minus, times, divided-by
+
+"statistical_operators" :
+1st_inverse_moment_of_pdf_of
+2nd_inverse_moment_of_pdf_of
+2nd_moment_of_pdf_of
+3rd_moment_of_pdf_of
+
+cdf_of
+max_of_pdf_of
+mean_of_pdf_of
+mode_of_pdf_of
+pdf_of
+standard_deviation_of_pdf_of
+variance_of_pdf_of
+variation_coefficient_of_pdf_of
+
+basin_average_of
+basin_max_of
+basin_min_of
+basin_mode_of
+basin_range_of
+
+domain_average_of     OR   domain_mean_of
+domain_max_of
+domain_min_of
+domain_mode_of
+domain_range_of
+
+globe_average_of
+globe_max_of
+globe_min_of
+globe_mode_of
+globe_range_of
+
+time_average_of
+time_max_of
+time_min_of
+time_mode_of       OR   peak_time_of
+time_range_of
+
+"operations_that_return_scalars" :
+alongshore_component_of     "applies_to" : "vector",  "returns" : "scalar",
+anomaly_of                  "applies_to" : "scalar",  "returns" : "scalar",
+azimuth_angle_of            "applies_to" : "angle",   "returns" : "angle",
+biharmonic_of               "applies_to" : "scalar",  "returns" : "scalar",
+complement_of               "applies_to" : "angle",   "returns" : "angle",
+cross-shore_component_of    "applies_to" : "vector",  "returns" : "scalar",
+cross-stream_component_of   "applies_to" : "vector",  "returns" : "scalar",
+depression_of               "applies_to" : "scalar",  "returns" : "scalar",
+drop_of                     "applies_to" : "scalar",  "returns" : "scalar",
+divergence_of               "applies_to" : "vector",  "returns" : "scalar",
+downstream_component_of     "applies_to" : "vector",  "returns" : "scalar",
+down_component_of           "applies_to" : "vector",  "returns" : "scalar",
+east_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+east_east_component_of      "applies_to" : "tensor",  "returns" : "scalar",
+east_north_component_of     "applies_to" : "tensor",  "returns" : "scalar",
+east_up_component_of        "applies_to" : "tensor",  "returns" : "scalar",
+elevation_angle_of          "applies_to" : "angle",   "returns" : "angle",
+increment_of                "applies_to" : "scalar",  "returns" : "scalar",
+laplacian_of                "applies_to" : "scalar",  "returns" : "scalar",
+limit_of                    "applies_to" : "sequence", "returns" : "scalar",
+loss_of                     "applies_to" : "scalar",  "returns" : "scalar",
+magnitude_of                "applies_to" : "vector",  "returns" : "scalar",
+nadir_angle_of              "applies_to" : "angle",   "returns" : "angle",
+    "synonym" : "off-nadir_angle_of"
+north_component_of          "applies_to" : "vector",  "returns" : "scalar",
+north_north_component_of    "applies_to" : "tensor",  "returns" : "scalar",
+north_east_component_of     "applies_to" : "tensor",  "returns" : "scalar",
+north_up_component_of       "applies_to" : "tensor",  "returns" : "scalar",
+offset_of                   "applies_to" : "scalar",  "returns" : "scalar",
+offshore_component_of       "applies_to" : "vector",  "returns" : "scalar",
+reciprocal_of               "applies_to" : "scalar",  "returns" : "scalar",
+reduction_of                "applies_to" : "scalar",  "returns" : "scalar",
+scalar_potential_of         "applies_to" : "vector",  "returns" : "scalar",
+     "note" : "Arg X must be a 2D or 3D vector field;  X = grad(phi), where phi = scalar potential."
+shift_of                    "applies_to" : "scalar",  "returns" : "scalar",
+streamfunction_of           "applies_to" : "2D vector",  "returns" : "scalar",
+     "note" : "Arg X must be a 2D vector field;  X = (phi_y, -phi_x), where phi = stream function."
+supplement_of              "applies_to" : "angle",   "returns" : "angle",
+up_component_of            "applies_to" : "vector",  "returns" : "scalar",
+up_east_component_of       "applies_to" : "tensor",  "returns" : "scalar",
+up_north_component_of      "applies_to" : "tensor",  "returns" : "scalar",
+up_up_component_of         "applies_to" : "tensor",  "returns" : "scalar",
+u_component_of             "applies_to" : "vector",  "returns" : "scalar",
+v_component_of             "applies_to" : "vector",  "returns" : "scalar",
+w_component_of             "applies_to" : "vector",  "returns" : "scalar",
+x_component_of             "applies_to" : "vector",  "returns" : "scalar",
+x_x_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+x_y_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+x_z_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+y_component_of             "applies_to" : "vector",  "returns" : "scalar",
+y_x_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+y_y_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+y_z_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+z_component_of             "applies_to" : "vector",  "returns" : "scalar",
+z_x_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+z_y_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+z_z_component_of           "applies_to" : "tensor",  "returns" : "scalar",
+zenith_angle_of            "applies_to" : "angle",   "returns" : "angle",
+
+"operations_on_two_vectors_that_return_scalars":
+"cross_product_of_X_and_Y",
+"dot_product_of_X_and_Y"
+"dot_product_angle_of_X_and_Y".
+
+"operations_that_return_vectors" :
+antigradient_of      "applies_to" : "scalar field",   "returns" : "vector field",
+curl_of              "applies to" " "vector field",   "returns" : "vector",
+gradient_of          "applies to: : "scalar field",   "returns" : "vector field",
+left_normal_of       "applies to" : "2D vector",      "returns" : "vector",
+opposite_of          "applies_to" : "any vector",     "returns" : "vector",
+right_normal_of      "applies_to" : "2D vector",      "returns" : "vector",
+vector_potential_of  "applies_to" : "2D or 3D vector field such that arg = curl of vector_potential"
+azimuthal_projection_of "applies_to" : "3D vector, not field" : "returns" : "2D vector"
+
+// These require another argument, given as a prefix
+<prefix>_ccw_rotation_of   "applies_to" : "2D vector",      "returns" : "2D vector",
+<prefix>_cw_rotation_of    "applies_to" : "2D vector",      "returns" : "2D vector",
+<prefix>_scaling_of        "applies_to" : "any vector",     "returns" : "vector",
+<prefix>_dilation_of       "applies_to" : "any vector",     "returns" : "vector",
+<prefix>_contraction_of    "applies_to" : "any_vector",     "returns" : "vector",
+<prefix>_translation_of    "applies_to" : "vector",         "returns" : "vector",
+
+
+// Ellipsoid names
+Airy_1830
+Airy_Modified_1849
+Australian_National_Spheroid
+Average_Terrestrial_System_1977
+Bessel_1841
+Bessel_Modified
+Bessel_Namibia_GLM
+CGCS2000
+Clarke_1858
+Clarke_1866
+Clarke_1866_Authalic_Sphere
+Clarke_1866_Michigan
+Clarke_1880
+Clarke_1880_Arc
+Clarke_1880_Benoit
+Clarke_1880_IGN
+Clarke_1880_International_Foot
+Clarke_1880_RGS
+Clarke_1880_SGA_1922
+Danish_1876
+Everest_1830_1937_Adjustment
+Everest_1830_1962_Definition
+Everest_1830_1967_Definition
+Everest_1830_1975_Definition
+Everest_1830_Definition
+Everest_1830_Modified
+Everest_1830_RSO_1969
+GEM_10C
+GRS_1967
+GRS_1967_Modified
+GRS_1980
+GRS_1980_Authalic_Sphere
+Helmert_1906
+Hough_1960
+Hughes_1980
+IAG_1975
+Indonesian_National_Spheroid
+International_1924
+International_1924_Authalic_Sphere
+Krassowsky_1940
+NWL_9D
+OSU86F
+OSU91A
+Plessis_1817
+PZ-90
+Struve_1860
+War_Office
+WGS_72
+WGS_84
+
+
+// Projections
+See:   http://www.epsg-registry.org
+See:   GeoTIFF Project List, in: GeoTIFF Specs (http://trac.osgeo.org/geotiff/)
+
+
+// Datums
+See:   http://www.epsg-registry.org
+
+
+// Numpy data types
+
+Data type	Description
+boolean		Boolean (True or False) stored as a byte
+int8		Byte (-128 to 127)
+int16		Integer (-32768 to 32767)
+int32		Integer (-2147483648 to 2147483647)
+int64		Integer (-9223372036854775808 to 9223372036854775807)
+int128
+uint8		Unsigned integer (0 to 255)
+uint16		Unsigned integer (0 to 65535)
+uint32		Unsigned integer (0 to 4294967295)
+uint64		Unsigned integer (0 to 18446744073709551615)
+uint128
+float16		Half precision float: sign bit, 5 bits exponent, 10 bits mantissa
+float32		Single precision float: sign bit, 8 bits exponent, 23 bits mantissa
+float64		Double precision float: sign bit, 11 bits exponent, 52 bits mantissa
+float128
+complex64	Complex number, represented by two 32-bit floats (real and imaginary components)
+complex128	Complex number, represented by two 64-bit floats (real and imaginary components)
+
+
+
+

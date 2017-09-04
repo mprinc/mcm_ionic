@@ -1,0 +1,403 @@
+
+S.D. Peckham
+December 9, 2016   (Began working with Ionic 2 on Nov. 29, 2016.)
+
+=====================================================================================
+                 Quick Installation and "cheat sheet" for Ionic 2
+=====================================================================================
+
+Step 1. Install Node.js at /usr/local/bin/node.  (from https://nodejs.org/en/)
+        npm was installed at /usr/local/bin/npm
+        (Make sure /usr/local/bin is in your $PATH.)
+
+MacBook: Success!
+
+$ which npm
+  /usr/local/bin/npm
+
+$ npm --version
+  3.10.9
+
+=====================================================================================
+Step 2.  Install Apache Cordova.  (Cordova CLI to version >= 4.2.0)
+
+$ sudo npm install -g cordova
+
+MacBook: Success!
+
+$ which cordova
+  /usr/local/bin/cordova
+
+$ cordova --version
+  6.4.0
+
+=====================================================================================
+Step 3.  Install Ionic.
+
+$ sudo npm install -g ionic
+
+Don’t need anything special for “Ionic 2” here.
+
+MacBook: Success!
+
+$ which ionic
+  /usr/local/bin/ionic
+
+$ ionic --version
+  2.1.17
+
+=====================================================================================
+Step 5.  Install XCode from the App Store.
+
+Note:  This is a big install (4.47 GB) and takes a while to download.
+
+Note:  This installation should include "xcodebuild", and version 6.0.0 or
+       greater is needed by Cordova.
+
+=====================================================================================
+Step 6.  Check that xcodebuild was installed (needed by Cordova).
+          
+$ which xcodebuild
+  /usr/bin/xcodebuild      (Needed for “ionic serve”)
+  
+$ xcodebuild -version
+  Xcode 8.1  (MacPro)
+  Build version 8B62
+
+  Xcode 8.2.1   (MacBook Pro)
+  Build version 8C1002
+
+Note:  First installed xcodebuild by itself, from a prompt, but got this:
+
+xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance  
+    
+=====================================================================================
+Step 7.  Copy the mcm_app folder from my MacPro to MacBook Pro (in home).
+
+Copy it from backup in Drobox/00_MCM_App.
+
+=====================================================================================
+Step 7b.  Add support for the Apache Cordova InAppBrowser to a project.
+
+$ cd mcm_app
+
+Install the plugin with:
+
+$ sudo cordova plugin add cordova-plugin-inappbrowser
+
+Got this message:
+Plugin "cordova-plugin-inappbrowser" already installed on ios.
+
+Note:  The Ionic 2 InAppBrowser page at:
+   https://ionicframework.com/docs/v2/native/inappbrowser/
+says to do this:
+
+$ ionic plugin add cordova-plugin-inappbrowser
+
+Ran this command and got this message:
+  Plugin "cordova-plugin-inappbrowser" already installed on ios.
+
+Tried installing first in my home directory:
+Error: Current working directory is not a Cordova-based project.
+
+=====================================================================================
+Step 7c.  Add support for the Apache Cordova "File" plugin to a project.
+
+$ ionic plugin add cordova-plugin-file  (didn't use sudo)
+
+This provides access within Ionic 2 to the File API, as described here:
+
+http://ionicframework.com/docs/v2/native/file/
+https://github.com/apache/cordova-plugin-file
+
+Note: This doesn't work when running app in a browser, so will need to
+      check the platform (with Platform API ?) first.  See these docs:
+      https://ionicframework.com/docs/v2/api/platform/Platform/
+
+---
+import { Platform } from 'ionic-angular';
+
+@Component({...})
+export MyPage {
+  constructor(platform: Platform) {
+    this.platform = platform;
+    let ios_plaform      = platform.is('ios');
+    let android_platform = platform.is('android');
+    let windows_platform = platform.is('windows');
+  }
+}
+---
+
+Note: For platform-specific directory names (readable and/or writeable),
+      see this page:   https://github.com/apache/cordova-plugin-file
+      See examples at bottom of page.
+
+cordova.file.applicationDirectory
+   Read-only directory where the application is installed.
+   (iOS, Android, BlackBerry 10, OSX, windows)
+
+cordova.file.applicationStorageDirectory
+   Root directory of the application's sandbox; on iOS & windows this location
+   is read-only (but specific subdirectories [like /Documents on iOS or
+   /localState on windows] are read-write). All data contained within is
+   private to the app.
+   (iOS, Android, BlackBerry 10, OSX)
+
+cordova.file.dataDirectory
+   Persistent and private data storage within the application's sandbox
+   using internal memory (on Android, if you need to use external memory,
+   use .externalDataDirectory). On iOS, this directory is not synced
+   with iCloud (use .syncedDataDirectory).
+   (iOS, Android, BlackBerry 10, windows)
+
+MacBook:  Not tried yet.  (Okay on MacPro)
+
+=====================================================================================
+Simple example of use for (7c):
+
+---
+import { File } from 'ionic-native';
+
+declare var cordova: any;
+const fs:string = cordova.file.dataDirectory;
+File.checkDir(this.fs, 'mydir').then(_ => console.log('yay')).catch(err => console.log('boooh'));
+---
+
+Other API functions of note:
+
+getFreeDiskSpace()
+checkDir(path, dir)
+createFile(path, fileName, replace)
+writeFile(path, fileName, text, options)
+writeExistingFile(path, fileName, text)
+readAsText(path, file)
+readAsBinaryString(path, file)
+getFile(directoryEntry, fileName, flags)
+
+=====================================================================================
+Step 8.  Run the app in a browser, for testing.
+
+$ cd mcm_app
+$ ionic serve
+
+(Must install Xcode first.)
+
+Failed again, after full Xcode install.
+May be problem with copying over the node_modules folder from MacPro
+   that is found in mcm_app.
+
+Decided to rename mcm_app folder to mcm_app_copied.
+Created new, blank Ionic 2 project with the name mcm_app.
+Copied the "src" from copied project into new mcm_app folder.
+Ran:  "ionic serve" and it worked. :)
+
+=====================================================================================
+Step 9.  Create a new, blank project called "mcm_app2".
+
+$ cd
+$ ionic start --v2 mcm_app2 blank
+
+Change directories and see what Ionic 2 installed for us.
+
+$ cd mcm_app2
+$ ls
+
+=====================================================================================
+Note:  All of the user-edited source code is in the "src" subdirectory,
+       so this is all that needs to be moved between computers.
+
+=====================================================================================
+
+Some helpful tips:
+
+Run your app in the browser (great for initial development):
+  ionic serve
+
+Run on a device or simulator:
+  ionic run ios[android,browser]
+
+Test and share your app on device with Ionic View:
+  http://view.ionic.io
+
+Build better Enterprise apps with expert Ionic support:
+  http://ionic.io/enterprise
+
+New! Add push notifications, live app updates, and more with Ionic Cloud!
+  https://apps.ionic.io/signup
+
+New to Ionic? Get started here: http://ionicframework.com/docs/v2/getting-started
+
+=====================================================================================
+Step 10.  Create an Ionic Cloud account.
+
+Create an Ionic Cloud account to add features like User Authentication,
+    Push Notifications, Live Updating, iOS    builds, and more?
+    (Y/n): Y
+
+=====================================================================================
+Step 11.  Install ios-sim to deploy iOS applications.
+
+$ sudo npm install -g ios-sim
+
+Provide login and password.
+
+=====================================================================================
+Step 12. Configure iOS platform.
+
+$ ionic platform add ios
+
+=====================================================================================
+Step 13.  Configure android platform.
+
+$ ionic platform add android    (might need sudo to set ANDROID_HOME)
+
+May get an error like this:
+Error: Failed to find 'ANDROID_HOME' environment variable. Try setting setting it manually.
+
+Failed to find 'android' command in your 'PATH'. Try update your 'PATH' to include path to valid SDK directory.
+
+=====================================================================================
+Step 14. Run the app in an iOS or Android device emulator.
+
+$ ionic run ios
+
+=====================================================================================
+Step 15.  View new, blank app in "Simulator".
+
+The previous command:  "ionic run ios"
+started an iPhone 6s Plus emulator called "Simulator".
+Initially, simulated iPhone window was huge.
+Reduced window size with Window > Scale > 50% in Simulator app.
+Looks like an iPhone screen with Carrier, wireless icon, current time, battery icon, etc.
+Current time updates automatically.
+
+=====================================================================================
+Step 16.  Install ios-deploy to deploy iOS applications to devices.
+
+$ sudo npm install -g ios-deploy
+
+=====================================================================================
+Step 17.  Test it out.
+
+$ ionic build ios
+$ ionic emulate ios
+
+=====================================================================================
+Step 18.  Look at Ionic "Market" with Starter App "templates":
+	     https://market.ionic.io/starters/
+ 
+They also have "plugins" and "themes" at:
+    https://market.ionic.io/plugins
+    https://market.ionic.io/themes
+
+=====================================================================================
+Step 19.  Create new pages in the pages folder of an Ionic 2 app.
+
+$ ionic g page other (generate a new page called "other")
+
+From the tutorial at this URL:
+http://pointdeveloper.com/ionic-2-beginner-creating-pages-components/
+
+=====================================================================================
+Step 20.  Create a service, also called a provider, in providers folder.
+
+$ ionic g provider TodoService
+
+This creates files in "/mcm_app/app/providers".
+This generates /providers/todo-service/todo-service.ts, which has a "load()" function.
+
+Services are the best way to share frequently-used functions across several
+pages without creating a copy in each page.
+
+=====================================================================================
+Step 21.  For some authentication plugins/packages, may need this:
+
+$ npm install angular2-jwt
+
+=====================================================================================
+Step 22.  Try to revert back to stable version, if problems.
+
+$ sudo npm install -g ionic cordova
+
+This seemed to work.
+
+=====================================================================================
+Step 23.  Check for new version of Ionic 2, etc.
+
+$ npm outdated
+
+=====================================================================================
+Step 24.  List all npm "packages".
+
+$ cd mcm_app
+$ npm list
+$ npm list --depth=0
+
+=====================================================================================
+Step 25.  Download the IonicView app on your smart phone.
+
+This allows you to upload an existing app project to your "Ionic Cloud"
+account, and then run a simulation of it on your phone.
+
+In your app folder, type:
+
+$ ionic upload
+
+You will be prompted to login to your Ionic Cloud account:
+
+Email:
+Password: 
+Logged in! :)
+Uploading app....
+Saved app_id, writing to ionic.io.bundle.min.js...
+Successfully uploaded (df5d5c9f)
+
+Share your beautiful app with someone:
+
+$ ionic share EMAIL
+
+=====================================================================================
+Step 26.  Install SQLite for local storage.
+
+$ cordova plugin add cordova-sqlite-storage --save
+
+Fetching plugin "cordova-sqlite-storage@2.0.0" via npm
+Installing "cordova-sqlite-storage" for ios
+installing external dependencies via npm
+npm install of external dependencies ok
+Saved plugin info for "cordova-sqlite-storage" to config.xml
+
+
+This is already installed by default for Ionic 2.
+$ npm install --save @ionic/storage
+
+ionic-hello-world@ /Users/your-login/mcm_app
+└── @ionic/storage@1.1.6 
+
+=====================================================================================
+Step 27.  Install the Ionic keyboard plugin
+
+$ cordova plugin add ionic-plugin-keyboard
+
+Plugin "ionic-plugin-keyboard" already installed on ios.
+---------------------------------
+Then can use these in code:
+cordova.plugins.Keyboard.close();
+
+cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
+cordova.plugins.Keyboard.hideKeyboardAccessoryBar(false);
+
+=====================================================================================
+Step 28.  At one point, the "ionicons" used in the app became blank.
+
+It turned out this was because the file:
+    mcm_app/src/theme/variables.scss
+had been saved or overwritten with a filesize of zero.  Used Time Machine to get a previous version with nonzero filesize.
+
+This is the file that imports the ionicons, among other things.
+
+=====================================================================================
+
+
+
+

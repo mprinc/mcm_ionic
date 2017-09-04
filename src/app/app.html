@@ -1,0 +1,62 @@
+
+<!-- Original file had only this one line -->
+<!-- <ion-nav [root]="rootPage"></ion-nav> -->
+
+<!-- =============================================================== -->
+<!-- Added this on 12/29/16 to prevent swipeBack in ObjectList page  -->
+<!-- because long object names have horizontal scroll feature.       -->
+<!-- =============================================================== -->
+<ion-nav [root]="rootPage" swipeBackEnabled="false"></ion-nav>
+
+<!-- Trying to add a side menu (from the right) -->
+<!-- <ion-menu [content]="content" type="overlay" side="right" > -->
+<!-- <ion-menu [content]="content"> -->
+<!--
+<ion-menu [content]="content" side="right" >
+
+    <ion-toolbar>
+        <ion-title>Menu</ion-title>
+    </ion-toolbar>
+    <ion-content>
+        <ion-list>
+            <button ion-item *ngFor="let p of pages" (click)="openPage(p)">
+                {{p.title}}
+            </button>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+<ion-nav id="nav" #nav [root]="rootPage" #content swipe-back-enabled="true"></ion-nav>
+-->
+
+<!-- Original file had only this one line -->
+<!-- <ion-nav [root]="rootPage"></ion-nav> -->
+
+
+<!-- ============================================== -->
+<!--   NOT SURE HOW TO GET THIS SIDE MENU WORKING   -->
+<!-- ============================================== -->
+<!-- https://ionicframework.com/docs/v2/api/components/menu/Menu/ -->
+
+<!-- Do we need to use the "overlay" type for iOS ? -->
+<!-- Should we use "rootPage" or "ObjectList" here? -->
+<!-- <ion-menu [content]="thispage" side="right" >  -->
+
+<!--
+<ion-menu [content]="thispage" type="overlay" side="right" >
+  <ion-toolbar>
+    <ion-title>Menu</ion-title>
+  </ion-toolbar>
+
+  <ion-content>
+    <h2> My Help Page </h2>
+    <p> Here is some content. </p>
+    <ion-list>
+      <button ion-button menuClose ion-item detail-none>Close Menu</button>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+
+<ion-nav id="nav" #thispage [root]="rootPage"> </ion-nav>
+
+<ion-content padding #thispage>
+-->

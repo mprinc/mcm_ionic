@@ -1,0 +1,18 @@
+page-object-list {
+
+ion-list > .item:first-child {
+  transform: translate3d(0px, 0px, 0px) !important; }
+
+div.head{ padding-top:8px; padding-bottom:4px;}
+
+// Currently must specify height, or text disappears.
+// Reducing height too much makes underscores disappear in browser.
+// Will 30px work on all devices?  Any other solution?
+ion-scroll {
+    white-space: nowrap;   // don't think this is needed; no spaces
+    height: 30px;
+}
+
+//button{ background-color:rgba(0, 0, 0, 0.0); vertical-align: text-center;}
+
+}

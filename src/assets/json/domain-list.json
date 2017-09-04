@@ -1,0 +1,2409 @@
+{
+  "head": {
+    "vars": [ "label" , "field" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Absorption spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Actinides chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aliphatic hydrocarbons" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Alkaline earths" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Alkaline elements" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Alkaloids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Amino Acids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Analytical Chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Antimetabolites" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aromatic hydrocarbons" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bicyclic chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biochemical analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biochemical genetics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biological macromolecules chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biosynthesis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Boron compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Carbanion chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Carbohydrates chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Carbon" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Carbonium chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cellular plastics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cellulose" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chemotherapy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chlorine compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chromatographic analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Clinical chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Co-enzymes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Co-ordination compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Composites polymers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Design, synthesis and study of new drugs" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dyestuff chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Elastomers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electrochemical Analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron deficient compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electropositive elements" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Emission spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Essential oils" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fatty acids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Feedback regulation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fermentation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fluorimetry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fluorine compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Food biochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Free radicals " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Germanium" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glucides" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Graphite" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gravimetry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gums" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Halogens" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Heterocyclic compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High polymers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hormones" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hot atoms chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrides" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrogen" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Immunochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Infrared spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inorganic chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inorganic polymers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inorganic reactions (mechanisms of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Intermediary metabolism" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Isotope tracers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lead compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lipids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Macromolecular chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Macromolecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetic resonance spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marked molecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mass spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Metabolic processes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Metal alkyls" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Metals" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Microbiological chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Microchemical analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Microscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Microwave spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Modification of macromolecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular biology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular pharmacology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Monomers chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Natural fibers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Network polymers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nitrogen compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nucleic acids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organic Chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organic chemistry. Instrumental analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organic natural products chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organo-metallic compounds " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organometallic" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organophosphorus chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organosilicon chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organosulfur chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other chemical specialties (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Peptides" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pharmaceutical chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phosphorimetry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phosphorous compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photosynthesis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical biochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pigments chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polyelectrolytes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polyesters" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polyethylene" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polymer analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polymer analysis " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polymer in dispersed form" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polypeptides and proteins " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polysaccharides " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polystyrene" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polyurethanes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proteins" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiation chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiochemical analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radioisotopes " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Raman spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rare earths" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction Mechanisms" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Separation of isotopes " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sodium compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stability of macromolecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Starch" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stereochemistry and conformational analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Steroids " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Steroids chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Structure of inorganic compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Structure of organic molecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sulfur compounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Synthesis of macromolecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Synthetic elements" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Synthetic fibres " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Terpenes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermal analytical methods" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Trace-elements " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Transition elements" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Transuranic elements" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vitamins " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Volumetry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Water chemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Waxes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "X-Ray spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "benzene derivatives" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "enzymology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Chemistry" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeronomy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agricultural mMeteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Air pollution " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Air-sea interaction " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Airglow" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Analytical climatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Applied climatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Areal geology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric acoustics " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric dynamics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric electricity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric optics " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric radioactivity " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric sciences " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric structure" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atmospheric turbulence" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aurora" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bioclimatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biogeography " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biological oceanography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chemical oceanography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Climatology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cloud physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Coal geologi " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cosmic rays " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cosmochemistry " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Descriptive oceanography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dissemination (atmospheric)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Engineering geology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Environmental geology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Erosion (water)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Evaporation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Exobiology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Experimental petrology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Exploration geochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Extended weather forecasting" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geochronology and radio isotope" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geodesic astronomy " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geodesic cartography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geodesic navigation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geodesic photogrammetry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geodesy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geodetic surveying" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geographical cartography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geography " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geography of natural resources" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geohydrology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geological surveys" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geomagnetic pulsations" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geomagnetism and magnetic explotarion" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geomorphology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geophysics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geothermal processes and energy " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glacial geology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glaciology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gravity (earth) and gravity exploration " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Groundwater" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Heat flow (earth)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High temperature geochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrobiology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrometeorology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ice " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Industrial meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ionosphere" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Land utilization " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Limnology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Location theory" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Low temperatures geochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetospheric particles" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetospheric waves" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marine Geology (oceanography)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marine aquaculture (oceanography)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marine botany " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marine meteorology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marine zoology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medical geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mesometeorología" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Meteorology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Microclimatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Micrometeorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mineral deposits" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mineralogy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Numerical modelling" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Numerical weather prediction" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Observation briefing (weather)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ocean-bottom processes " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Oceanography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Operational forecasting (weather)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organic geochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other Earth, Space or Environmental specialities (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Paleoclimatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Paleomagnetism" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Permafrost" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petroleum geology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petrology, igneous and metamorphic" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petrology, sedimentary" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photogeology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical climatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical geodesy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical oceanography " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polar meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Precipitation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Precipitation physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality of water " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radar meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radio meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radioactive transfer" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Regional climatology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Remote sensing (geology)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Renewable resources (oceanography)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rock mechanisms" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rocket meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Satellite geodesy " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Satellite meteorology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Science space (2104 2102 3324)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sea ice " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sea-air interactions " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sedimentology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seismology and seismic exploration" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shore and near-shore processes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Snow" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil Science (Soil Science) " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil biochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil biology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil classification" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil engineering" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil mechanics (agriculture)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil microbiology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil mineralogy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil moisture" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil morphology and genesis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil xonservation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solar wind" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid-earth and geophysics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Space medicine" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Space physiology " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stable isotopes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stratigraphy " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Structural geology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Surface waters" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Synoptic meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tectonics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Theoretical geodesy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Topographic geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Trace elements distribution" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Transpiration" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tropical meteorology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Underwater sounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Volcanology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weather analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weather modification" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Well log analysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "atmospheric chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "atmospheric thermodynamics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "soil cartography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Earth and Space Sciences" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cultural geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Demo-geography " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Distribution of natural resources" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Economic Geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geography of economic activities" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geography of religion " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Historical geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Human geography " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Land utilisation " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Linguistic geography " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other geographical specialities (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Political geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Regional development" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Regional geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rural geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Social geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Urban geography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Geography" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Absorption spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Acoustic properties of solids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Acoustics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Alloys" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Analytical mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Architectural Acoustics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atomic beams" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atomic ions" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atomic physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Atoms with Z greater than 2" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Beam handling" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Beam sources" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Catalysis" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Changes of state" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chemical and phase equilibrium" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chemical kinetics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cinematography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Circuit elements" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Circuits" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Collision processes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colloids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colloids chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colorimetry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Composites" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Conductivity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Constants (physics)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Continuous mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crystal growth" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crystal structure" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crystallography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dendrites" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dielectrics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Diffusion in solids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Digital treatment. Images" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dispersions" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Elasticity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electrical quantities and their measurement" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electricity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electrochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electrolytes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electromagnetic fields" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electromagnetic waves" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electromagnetism" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron Microscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron beams" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron carriers properties" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron paramagnetic resonance" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron spin resonance" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron states" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron states" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron transport" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron transport properties" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electron tubes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electronic spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Electronics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Elementary particles " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Emission spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Emulsions" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Energy (physics)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Energy Conversion" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Energy transfer" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fast reactions; explosives" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fibre Optics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fields" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fission (nuclear)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flames" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fluid flow" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fluid mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fluid mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fluids (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Free radicals" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Friction" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fuel cells (theory of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fused salts" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusion reactors" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gamma rays" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gas phase physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gases" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Geometric optics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gravitation " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gravitational fields" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gravitons" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hadrons" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hearing (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Heat transfer (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Helium atom" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High energy Physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High pressure" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High pressure phenomena" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High temperature" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High temperatures chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Holography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hydrogen atom" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ilumination" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Imperfections" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Infrared radiation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Infrared, visible and ultraviolet radiation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inorganic molecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Integrated circuits" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Interaction of electromagnetic waves with matter" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Interaction of radiation with solids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Interfaces" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Interfacial chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ion eschange" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ionisation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Isotopes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kinetic theory" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lattice mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leptons" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Light" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Liquid crystals" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Liquids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Low energy experimental nuclear physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Low temperatures" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Luminescence" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Macromolecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetic properties" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetic resonance" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetism" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnetofluid dynamics (Magnetofluidodinámica)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Many body theory" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mass" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Measurement of mechanical properties" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mechanical properties" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Membrane phenomena" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mesic and muonic molecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Metallography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Metallurgy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Metrology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Microscopes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular beams" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular ions" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Molecular structure" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Music (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Noise" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Non-crystalline states" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Non-linear Optics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear Energy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear decay" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear magnetic resonance" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear reaction and scattering" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear reactors" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclear structure" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nuclei" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nucleonics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Optical properties" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Optical properties of solids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Optics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Optometry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Organic molecules" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Other physical specialties (specify)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Particle accelerators" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Particle detectors" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Particle physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Particles sources" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phase equilibria" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phase transition" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photoelectricity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photographic instrumentation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photography" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photometry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photons " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical Chemistry: Gas phase chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical chemistry of Polymers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physical optics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Piezo-electricity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plasma Containment" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plasmas (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plasticity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polymers (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Propagation of electromagnetic waves" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quantum field theory " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quantum fluids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quantum theory" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiation (electromagnetic) " } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radioisotopes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiometry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Radiowaves and microwaves" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Relation processes" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Scattering phenomena" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Semiconductors" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shock waves" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid State physics. Solids spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid state chemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid state devices" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid state physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid state physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solid state physics. Thin sheet" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Solutions" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sonar" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spectroscopy" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Speech (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Standard units" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "States of matter" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Statistical mechanics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Superconductivity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Superconductors" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Surfaces" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Theoretical high energy physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Theoretical physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Theory of relativity" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermal measurement techniques" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermal properties of solids" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermochemistry" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermodynamic equilibria" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermodynamic relationships" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermodynamics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermodynamics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thermonuclear fusion" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Transport phenomena" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Transport phenomena" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tribology" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ultra-violet radiation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ultrasonics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Underwater sounds" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Unit calibration" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Unit conversion" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Units and Constants" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Valence theory" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vibrations" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Visible radiation" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vision (physics of)" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "X-rays" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "lasers" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "liquid state physics" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "metallic conductors" } ,
+        "field": { "type": "literal" , "xml:lang": "en" , "value": "Physics" }
+      }
+    ]
+  }
+}

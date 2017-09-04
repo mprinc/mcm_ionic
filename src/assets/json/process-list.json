@@ -1,0 +1,4704 @@
+{
+  "head": {
+    "vars": [ "processname" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "abandonment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "abatement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aberration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ablation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "abrasion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "absorption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "abstraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "acceleration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "acceptance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "acclimatization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "accommodation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "accretion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "accumulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "acidification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "acquisition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "action" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "activation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "actuation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "adaptation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "addition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "adhesion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "adjustment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "adoption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "adsorption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "advection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aeration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aerologation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aggradation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aggregation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "airflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aliasing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "alignment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "alkylation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "alleviation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "allocation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "allografting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "allotment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "allotransplantation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "alluviation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "alteration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "alternating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ammonification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "amortization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "amplification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "amputation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "anagenesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "anchoring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aneurysm" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "animation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "annealing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "annexation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "annihilation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "antibiosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "apoptosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "application" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "approach" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "appulse" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aridification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "armoring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "arresting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "arrival" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ascension" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ascent" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aspiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "assembling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "assessment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "assimilation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "assistance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "atomization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "attachment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "attack" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "attainment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "attenuation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "attraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "augmentation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "austempering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "austenitization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "autocollimation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "autoconversion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "autografting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "autolysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "autopsy" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "avalanching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "averaging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "aversion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "avoidance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "avulsion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "backcrossing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "backfire" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "backflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "backlash" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "backscattering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "backspin" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "balancing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "baling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ballasting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "baseflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "basification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "beaming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bearing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "belaying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bending" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "berthing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bifurcation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bilateration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "binding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "binning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bioaccumulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bioconcentration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "biodegradation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "biogenesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bioluminescence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "biomagnification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "biopoiesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bioremediation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "biosynthesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bioturbation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "birth" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bisection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blackout" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blasting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bleaching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bleeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blistering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blockage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blocking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blossoming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blowoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "blowout" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "boiling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bombardment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bonding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "boring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "borrowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bounce" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bracing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "braiding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "braking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "branching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breaching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breakdown" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breaking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breakover" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breakthrough" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breakup" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breastfeeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breathing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "breeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "brewing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bridging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "brinelling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "broadcasting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bromination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "brumation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bubbling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "buckling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "budding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "buffering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "buffeting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "buildup" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bulging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bundling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "buoyancy" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "burial" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "burning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "burrowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bursting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "bypass" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cabbeling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "caching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "calcification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "calibration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "calving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "camouflaging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "canalization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cancellation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cannulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "capping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "capturing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "carbonation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "carpooling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "carrying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "carving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cascading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "casting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "catagenesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "catalysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "catalyzing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "catching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cauterization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cavitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cementation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cementing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "centering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "centralization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "centrifugation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "centrifuging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cessation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chafing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chambering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "channelization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "charging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chelation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chemigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chemosynthesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chewing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chirp" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chiseling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "chlorination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "choking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "churning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "circling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "circulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "circumnavigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cirrhosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cladogenesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clamping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cleaning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clearance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clearcutting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clearing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cleavage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "climbing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clogging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cloning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "closing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "closure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clotting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clumping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "clustering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coagulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coalescence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coercion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coexistence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cognition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cohesion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coiling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coincidence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "collapse" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "collection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "collimation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "collision" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "colonization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "combination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "combustion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "comminution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "compactification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "compaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "compensation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "competition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "completion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "complexation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "compounding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "compression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "concealment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "concussion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "condensation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conditioning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "confinement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "confining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conflation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "confusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "congelation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "congestion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conjugation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conjunction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "connection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conservation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conserving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "consolidation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "constraining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "consumption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "contact" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "containment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "contamination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "contraception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "contraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "contributing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "control" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "contusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "convection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "convergence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conversion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "conveyance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "convolution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "convulsion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cooking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cooling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cooperation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coordination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coppicing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "copying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cornering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "corrasion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "correction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "correlation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "corrosion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coupling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "courting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "coverage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "covering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cracking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cranking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crash" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cratering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "creation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "creep" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "creepage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cresting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crevassing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crimping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crossbreeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crossing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crosslinking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crossover" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crushing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cryoplanation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cryopreservation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cryosuction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cryoturbation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "crystallization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "culling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "culmination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cultivation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "culturing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "curation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "curettage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "curing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "curtailment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "curving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cushioning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cutoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cutting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "cycling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "damage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "damming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dampening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "damping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "darkening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deactivation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dealkalization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "death" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deburring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decantation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decay" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deceleration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decentralization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decimation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decision" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "declination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decollimation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decomposition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "decompression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "defenestration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "defense" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "defertilisation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "defervescence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "defibrillation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deflation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deflection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "defoliation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deforestation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deformation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deglaciation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "degradation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dehalogenation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dehydration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deionization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "delamination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "delay" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deliberation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "delineation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "delivery" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "demand" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "demarcation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "demolition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "denaturation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "denitrification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "denoising" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "densification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "denudation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "departure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dependence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dephosphorylation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "depletion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deployment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deposition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "depression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deprivation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deprotonation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "derailment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dereferencing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "desalination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "descension" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "descent" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "desertification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "desiccation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "desorption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "destruction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "detachment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "detection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "detention" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deterioration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deterrence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "detonation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "detoxification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "detrainment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "development" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "deviation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dew" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dewatering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "diagenesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dialysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "differentiation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "diffraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "diffusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "digestion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "digging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dilatation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dilation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dilution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dimming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "direction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disappearance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disassembling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "discharge" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disconnection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "discovery" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disentrainment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disgregation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disintegration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dislocation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dismantling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dispersal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dispersion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "displacement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disposal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disposing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disruption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dissection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dissipation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dissociation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dissolution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "distillation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "distortion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "distraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "distribution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "disturbance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "divergence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "diversion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "diving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "division" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "docking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dodging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dolomitization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "domination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "donation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dosing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "doubling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downburst" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downcutting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downdraft" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downforce" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downscaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downturn" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "downwelling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drafting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drag" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drainage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drawdown" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dredging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drifting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drilling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dripping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "driving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drought" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drowning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "drying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ducting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "duplication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "dysregulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ebb" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "echoing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "eclipsing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "egress" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ejection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "electrification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "electrocution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "electrodeposition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "electroplating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "electrorefining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "electrowinning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "elimination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "elongation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "elution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "eluviation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "emanation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "embalming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "embarcation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "embedding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "embrittlement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "emergence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "emigration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "emission" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "emplacement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "emulsification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "encapsulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "encasement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "encroachment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "enforcement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "engaging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "engraving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "enrichment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "enrobing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ensilage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "entanglement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "entrainment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "entrance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "entry" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "equalization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "equilibration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "equinox" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "eradication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "erosion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "eruption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "escalation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "escape" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "espionage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "establishment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "esterification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "estimation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "estivation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "etching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ethylation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "eutrophication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evacuation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evaluation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evaporation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evapotranspiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evasion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "evolution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "examination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "excavation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exceedance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exchange" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "excitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exclusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "excretion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "excursion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exertion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exfiltration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exfoliation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exhalation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exhaust" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exhaustion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exhumation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "existence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exit" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exodus" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "expansion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "expiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exploitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "explosion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exporting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exposure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "expression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "expulsion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exsanguination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extension" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extermination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exteroception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extinction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extinguishment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extrapolation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extravasation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "extrusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "exudation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fabrication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "faceting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "failure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "falling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fallout" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fasciculation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fastening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fasting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "faulting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fecundation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "feedback" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "feeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fermentation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fertigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fertilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fibrillation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fibrosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "filamentation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "filling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "filtering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "filtration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "finding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fingering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "firing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fission" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fixation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fixing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flagellation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flameholding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flashback" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flashing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flattening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flavoring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flexure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flickering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flight" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "floating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flocculation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flood" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flotation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fluctuation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fluorescence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fluorination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flushing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flutter" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "flying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "focusing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "folding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "following" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "foraging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "forcing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "forging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "formation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fortification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fouling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fractionization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fracturing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fragmentation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "freezing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "freshening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "friction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fumigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "fusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gaining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "galling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gathering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gelation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gelifluction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "generation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "genesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "germination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "glaciation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "glancing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "glide" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "globalization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "glowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "governing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "grading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "grafting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gravitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "grazing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gridding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "grinding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "grip" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "grounding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "growing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "growth" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "guidance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "guiding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "guttation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "gyration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "habitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hadronization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "halogenation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hardening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "harvest" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "heating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "heaving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "herding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hesitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "heterosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hibernation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hiding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hitting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hoarding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hoisting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hop" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hovering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "humidification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hunting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hybridization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hydration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hydrogenation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hydrolysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hydropeaking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hydroplaning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "hyperpolarization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "icefall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "icepush" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "icing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "identification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "idling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ignition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "illumination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "illuviation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "imbrication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "immersion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "immigration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "immobilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "immunization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impact" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impairment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impedance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impelling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impinging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "implantation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "implosion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "importing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impounding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "impregnation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "improvement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "incarceration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "incineration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "incision" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inclination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inclusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "incorporation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "incubation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "incursion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "indentation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "independence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "indication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "induction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inebriation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "infarction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "infection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "infestation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "infilling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "infiltration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inflammation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inflation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inflection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inflicting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "influence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "infusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ingestion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ingress" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inhalation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inheritance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inhibition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "initialization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "injection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "injuring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "innervation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "innovation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inoculation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "insertion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "insolation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inspection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "installation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "insulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intake" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "integration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intensification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interbreeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intercalation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interconnection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interdependence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interference" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interlocking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intermingling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interoception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interpolation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interruption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intersection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "interspersal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intoxication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "introgression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "intrusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inundation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "invasion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "inversion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "invocation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "iodination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ionization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "irradiation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "irrigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "irritation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "isolation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "iteration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "jacking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "jackknifing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "jamming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "jaywalking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "jetting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "judder" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "juicing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "jumping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "juxtaposition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "kinking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "knocking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "laceration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lag" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lamination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "landfall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "landing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "landsliding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lapse" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lashing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "latching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lateration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "launching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lautering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "laying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "leaching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lead" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "leakage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "leaning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lensing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "leveling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "levering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "levitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "libration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lifting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "liftoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ligation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "limiting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "linkage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lipolysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "liquefaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "listing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lithification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "litterfall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "loading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "localization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "locking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "locomotion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "logging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lordosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "loss" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lowering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "lubrication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "luminescence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "maceration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "macgyvering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "machining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "magnetization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "magnification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "maintenance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "management" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "maneuvering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "manufacture" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mapping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "marching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "marking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "martempering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "masking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mastication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "matching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "maturation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "maximization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "meandering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "measurement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mediation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "meeting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "meiosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "melt" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mending" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "merging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "metabolizing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "metagenesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "metamorphosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "methylation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "migration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "milling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mineralization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "minimization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "missing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mitigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mitosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mixing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mobilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "moderation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "modification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "modulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "molding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "monitoring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mooring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "motion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "movement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "multilateration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "multiplication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "mutation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "navigation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nesting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "neurovitrification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "neutralization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nitrification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nourishment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nucleation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nudging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nullification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "nutation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "obduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "obliteration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "observation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "obstruction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "occlusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "occultation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "occurrence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "offense" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "onset" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "oozing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "opening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "operating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "operation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "opposing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "opposition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "optimization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "orienting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "origination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "oscillation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "osmosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outbreak" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outburst" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outcropping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outcrossing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "outgassing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "overexertion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "overflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "overgrazing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "overpopulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "overshoot" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "overturning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ovulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "oxidation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "oxychlorination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "oxygenation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "packing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "painting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pairing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "panning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "panspermia" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "parachuting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "paralysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "parametrization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pargeting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "participation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "partition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "passing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "passivation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "patching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "patination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "paving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "payoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "peaking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pedaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "penetration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "percolation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "percussion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "perforation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "perfusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "peristalsis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "permineralization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "permutation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "peroxidation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "persistence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "perspiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "perturbation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "petrification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "phosphorescence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "phosphorylation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "photolysis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "photophosphorylation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "photorespiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "photosynthesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "picking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "piercing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pinching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pinging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pinning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "piping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pitching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pitting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pivoting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "placement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "planation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "planning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "planting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "plastering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "plowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "plucking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "plugging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "plunging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pointing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "poisoning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "polarization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "polishing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pollination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pollution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "polymerization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ponding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "population" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "porpoising" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "portage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "positioning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "potentiation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pouring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "precession" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "precipitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "predation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "prediction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "preparation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "preprocessing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "preservation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "preserving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pressing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pressurization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "prevailing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "prevention" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "priming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "probing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "processing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "procurement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "production" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "progradation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "projection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "proliferation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "prolongation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "promotion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "propagation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "proprioception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "propulsion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "protection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "protonation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "provocation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pruning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pulling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pulmonation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pulsation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pulverizing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pumping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "puncturing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "purification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pushing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "putrefaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "pyritization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "quarantine" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "quenching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "quilting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "race" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "radiation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "radiolocating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rafting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rainfall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "raining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "raise" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ramping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rancidification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ranging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ranking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rarefaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ratcheting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "readjustment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reaeration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reaping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reassessment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reattachment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rebound" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reception" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recession" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recharge" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reciprocating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recirculation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reckoning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reclamation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recognition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recombination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reconciliation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reconditioning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reconnection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reconstruction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recovery" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recruitment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rectifying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recurrence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recursion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "recycling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "redirection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "redistribution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reducing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reeling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reentry" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refinement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reflection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reflux" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refreshing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refrigeration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refueling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "refurbishing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "regelation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "regeneration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "registration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "regression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "regridding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "regulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "regurgitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rehabilitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reinforcement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reintroduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rejection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "relaxation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "relay" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "releasing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "relief" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "relocation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "remediation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "remineralization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "remission" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "removal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rendition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "renewal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "repair" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "repelling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "repercussion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "replacement" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "replenishment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "replication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "repopulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "repose" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reproduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reprogramming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "repulsion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "requesting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rescaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rescue" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reset" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "residence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resilience" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resistance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resisting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resolving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resonance" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "respiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "response" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rest" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "restitution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "restoration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "restoring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "restraining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resurfacing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resuscitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "resuspension" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retarding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retention" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retooling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retreat" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retrieval" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retrofit" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "retrogradation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "return" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reuse" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "revegetation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reverberation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reversal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reverse_engineering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reversion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "revolution" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "reworking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ricocheting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ridging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "riding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rifting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "righting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "riming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rinsing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rip" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ripening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rising" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "risk" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rockfall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rocking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rollback" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rolling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rotation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "roughnening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "routing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rubbing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "running" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "runoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "runup" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "rupturing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "saccharification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sailing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "saltation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sampling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sanding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sanitation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sanitization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sapping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "saturation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "saving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scanning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scarring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scattering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scavenging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scintillation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scouring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "scratch" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "screening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sealing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "searching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "seating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "seclusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "secretion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sectioning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "securing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sedimentation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "seeding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "seeking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "seepage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "segregation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "seizure" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "selection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sensing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "separation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sequencing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sequestration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "serotyping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "setting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "settling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sewing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shadowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shaking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shaping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sharing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shattering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shear" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shedding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shielding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shifting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shoaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shooting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shortage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shredding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shrinkage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shrinking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "shunting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sideslip" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sieving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sifting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sighting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "signaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "silencing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "silicification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "silting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "simulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sinking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sintering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "siphoning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "siping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "skating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "skeletonization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "skidding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "skimming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sliding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "slippage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "slipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sluicing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "slumping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "smelting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "smoking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "smoothing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "snowfall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "softening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "solidification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "solifluction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "solstice" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "solutioning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sonication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sorption" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sorting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sounding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sourcing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "spallation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "spanning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sparging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sparing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "spawning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "speciation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "spillover" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "spinning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "splaying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "splintering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "splinting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "splitting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "spreading" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sprouting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sputtering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stabilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stacking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "staggering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "staging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stagnation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "staining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stalling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "standing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "starting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "starvation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stasis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "steering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stemflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stepping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sterilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stifling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stimulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stirring" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stitching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stocking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stoking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stoppage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stopping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "storage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "strafing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "straightening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "straining" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stratification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "strengthening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stressing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "stretching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "striking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "strobing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "subduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "subitizing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sublimation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "submersion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "submission" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "subsampling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "subsidence" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "subtraction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "subvocalization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "success" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "succession" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "suckering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "suction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "suffusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sunrise" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sunset" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sunshine" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "superconduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "supercooling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "superheating" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "superposition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "supersaturation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "supply" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "supporting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "suppression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "surfacing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "surge" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "surrounding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "surveying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "survival" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "suspension" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "suturing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "swabbing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "swaying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sweeping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "sweetening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "swell" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "swimming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "switching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "symbiosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "synchronization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "synnecrosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "synthesis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "syzygy" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tabulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tacking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tagging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tailspin" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "takeoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "takeover" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "taking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tampering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tamping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tapering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tapping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "targeting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "teardown" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "teleconnection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "telecoupling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "teleportation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tempering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tension" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "termination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "terraforming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "testing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thaw" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thermoregulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thermosetting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thickening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thinning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thrombosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "throttling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "throughfall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "throughflow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "thrust" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tillage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tilling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tilt" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "titration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "torquing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "toughening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tracking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "traction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tradeoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trailing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "training" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transaction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transcription" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transduction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transfection" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transfer" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transformation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transfusion" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transgression" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transit" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "translation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transmission" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transmutation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transpiration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transplantation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transport" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "transudation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trapping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "traversal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "treatment" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "treefall" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "treethrow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trending" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "triage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trial" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "triangulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "triggering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trilateration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tripping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trituration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "trophobiosis" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tuning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "tunneling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "turning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "turnout" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "turnover" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "twirling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "twisting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "twitching" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "typing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "underdrag" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "undershoot" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "undertow" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "undulation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "union" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "unravelling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "unzipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "updraft" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "upheaval" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "uplift" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "upscaling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "uptake" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "upwelling" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "urbanization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "usage" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "utilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vaccination" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "validation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vaporization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "variation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "variolation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "varying" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vasoconstriction" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vasodilation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vellication" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "ventilation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "verification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vibration" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "viewing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "violation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vitrification" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vocalization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "volatilization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "volition" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vortexing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "vulcanization" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wagging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "waiting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "warming" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "warning" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "washing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "washoff" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wasting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "watering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "waterproofing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "weakening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "weathering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "weaving" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wedging" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "weighting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "welding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wetting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "whitening" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wicking" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wilting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "winding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "winnowing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "wiping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "withdrawal" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "withering" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "writing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "xenografting" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "xenotransplantation" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "yawing" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "yielding" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "zipping" }
+      } ,
+      {
+        "processname": { "type": "literal" , "xml:lang": "en" , "value": "zoning" }
+      }
+    ]
+  }
+}
